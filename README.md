@@ -9,7 +9,7 @@
 ---
 
 ## Principais/atuais projetos
-#### Se quiser ver mais, acesse [meus repositóriose](https://github.com/VertigoFromOuterSpace?tab=repositories)
+#### Se quiser ver mais, acesse [meus repositórios](https://github.com/VertigoFromOuterSpace?tab=repositories)
 
 🟩 > Feito. | 🟨 > Em progresso. | 🟥 > A fazer.
 
