@@ -1,6 +1,6 @@
 ## Estudando e protegendo.🛡️
 
-[![Meus conhecimentos](https://skillicons.dev/icons?i=js,html,css,aws,discord,docker,eclipse,figma,gamemakerstudio,git,github,js,java,kali,linux,lua,mint,mysql,obsidian,php,py,pytorch,robloxstudio,vscode,arch&perline=6)](https://skillicons.dev)
+[![Meus conhecimentos](https://skillicons.dev/icons?i=js,html,css,aws,discord,docker,eclipse,figma,gamemakerstudio,git,github,js,java,kali,linux,lua,mysql,obsidian,php,py,pytorch,robloxstudio,vscode,arch&perline=6)](https://skillicons.dev)
 -  HTML, CSS, JS.
 -  Python, Pytorch.
 -  Lua & Luau basics.
