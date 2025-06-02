@@ -12,7 +12,7 @@
 - 🟩 Programa para gerar um relatório de chamados do Classecon.
 - 🟩 Programa para calcular a dose máxima anestésica bucal.
 - 🟩 Programa para calcular a porcentagem de dano Dark Souls 3.
-- 🟨 Script mais otimizado para realizar a negação de vida no jogo de Libras do Roblox. ![lua]([image.jpg](https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/lua/lua-original.svg))
+- 🟨 Script mais otimizado para realizar a negação de vida no jogo de Libras do Roblox. <i class="devicon-lua-plain colored"></i>
 - 🟨 Aplicativo de tarefas diárias.
 - 🟥 Mod para o Project Zomboid.
 
