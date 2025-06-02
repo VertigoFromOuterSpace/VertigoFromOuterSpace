@@ -2,8 +2,6 @@
 
 ### Foco em conhecimentos abrangentes, porém, aprofundados. <br>
 [![Meus conhecimentos](https://skillicons.dev/icons?i=js,html,css,aws,discord,docker,eclipse,figma,gamemakerstudio,git,github,js,java,kali,linux,lua,mysql,obsidian,php,py,pytorch,robloxstudio,vscode,arch&perline=6)](https://skillicons.dev)
-
-
 ---
 
 ## Principais/atuais projetos
@@ -17,8 +15,4 @@
 - 🟨 Script mais otimizado para realizar a negação de vida no jogo de Libras do Roblox.<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 - 🟨 Aplicativo de tarefas diárias.
 - 🟥 Mod para o Project Zomboid.
-
-
-
-
 [^1]: Be safe!.
