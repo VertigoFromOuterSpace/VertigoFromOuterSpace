@@ -4,7 +4,7 @@
 [![Meus conhecimentos](https://skillicons.dev/icons?i=js,html,css,aws,discord,docker,eclipse,figma,gamemakerstudio,git,github,js,java,kali,linux,lua,mysql,obsidian,php,py,pytorch,robloxstudio,vscode,arch&perline=6)](https://skillicons.dev)
 
 
-## Principais/atuais projetos
+### Principais/atuais projetos
 #### Se quiser ver mais, acesse [meus repositórios](https://github.com/VertigoFromOuterSpace?tab=repositories)
 
 🟩 > Feito. | 🟨 > Em progresso. | 🟥 > A fazer.
@@ -17,4 +17,4 @@
 - 🟥 Mod para o Project Zomboid.
 [^1]: Be safe!.
 
-# Como eu me preparo e projeto meus softwares pessoais
+### Como eu me preparo e projeto meus softwares pessoais
