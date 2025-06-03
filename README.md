@@ -17,7 +17,7 @@
   
 [^1]: Be safe!.
 ---
-### Como eu me preparo e projeto meus softwares pessoais
+### Como eu preparo e projeto meus softwares pessoais
 
 1. Primeira etapa sempre será a concepção da ideia.
 2. A partir disso eu começo a definir os principais requisitos e as regras de negócio do meu software.
