@@ -16,3 +16,5 @@
 - 🟨 Aplicativo de tarefas diárias.
 - 🟥 Mod para o Project Zomboid.
 [^1]: Be safe!.
+
+# Como eu me preparo e projeto meus softwares pessoais
