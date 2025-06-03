@@ -13,8 +13,8 @@
 - 🟨 Script mais otimizado para realizar a negação de vida no jogo de Libras do Roblox.<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 - 🟨 Aplicativo de tarefas diárias.
 - 🟥 Mod para o Project Zomboid.
-  #### Se quiser ver mais, acesse [meus repositórios](https://github.com/VertigoFromOuterSpace?tab=repositories)
+#### Se quiser ver mais, acesse [meus repositórios](https://github.com/VertigoFromOuterSpace?tab=repositories)
   
 [^1]: Be safe!.
-
+---
 ### Como eu me preparo e projeto meus softwares pessoais
