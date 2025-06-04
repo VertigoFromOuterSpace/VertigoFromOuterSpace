@@ -1,7 +1,7 @@
 ## Estudando e protegendo.🛡️
 
 ### Foco em conhecimentos abrangentes, porém, aprofundados. <br>
-[![Meus conhecimentos](https://skillicons.dev/icons?i=js,html,css,aws,discord,docker,eclipse,figma,gamemakerstudio,git,github,js,java,kali,linux,lua,mysql,obsidian,php,py,pytorch,robloxstudio,vscode,arch&perline=6)](https://skillicons.dev)
+[![Meus conhecimentos](https://skillicons.dev/icons?i=js,html,css,aws,gamemakerstudio,git,github,js,php,py,robloxstudio&perline=6)](https://skillicons.dev)
 
 
 ### Principais/atuais projetos
