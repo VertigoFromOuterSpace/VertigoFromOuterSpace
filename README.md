@@ -15,6 +15,7 @@
 - 🟨 Aplicativo de tarefas diárias.
 - 🟥 Mod para o Project Zomboid.
 - 🟥 Terminar de organizar o md do meu github pessoal.
+- 🟥 Fazer um site de ponta a ponta com PHP.
 #### Se quiser ver mais, acesse [meus repositórios](https://github.com/VertigoFromOuterSpace?tab=repositories)
   
 [^1]: Be safe!.
