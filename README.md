@@ -29,3 +29,4 @@
 4. Faço protótipos e vou corrigindo de acordo com minhas necessidades. Primeiro a base com os principais requisitos já funcionando.
 5. Depois parto para a organização geral e o restante dos requisitos.
 6. Quando eu finalizo, testo tudo novamente e envio para o GitHub, onde sempre será de domínio público (a menos que especificado), já que todos meus projetos são para meu próprio estudo.
+
