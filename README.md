@@ -3,6 +3,7 @@
 ### Buscando conhecer de tudo um pouco, mas focando no que for necessário<br>
 [![Meus conhecimentos](https://skillicons.dev/icons?i=js,html,css,aws,gamemakerstudio,git,github,redhat,php,py,robloxstudio,vscode&perline=6)](https://skillicons.dev)
 
+
 ### Principais/atuais projetos
 🟩 > Feito. | 🟨 > Em progresso. | 🟥 > A fazer.
 
