@@ -11,6 +11,7 @@
 - 🟩 Programa para calcular a dose máxima anestésica bucal. <strong>> Python</strong>
 - 🟩 Site de controle de ponto para empresas.
 - 🟩 Programa para calcular a porcentagem de dano Dark Souls 3. <strong>> Python</strong>
+- 🟩 Script em Python para tentar decodificar um código encriptado em Base64 retirado do Wireshark. <strong>> Python</strong>
 - 🟨 Script mais otimizado para realizar a negação de vida no jogo de Libras do Roblox.<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 - 🟨 Aplicativo de tarefas diárias.
 - 🟥 Mod para o Project Zomboid.
