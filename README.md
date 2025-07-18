@@ -17,6 +17,7 @@
 - 🟥 Mod para o Project Zomboid.
 - 🟥 Terminar de organizar o md do meu github pessoal.
 - 🟥 Fazer um site de ponta a ponta com PHP.
+- 🟥 Criar um script em Python para pegar meus códigos do vscode, transformá-los em markdown e enviar ao Obsidian (utilizar IA para comentar dentro do Obsidian).
 #### Se quiser ver mais, acesse [meus repositórios](https://github.com/VertigoFromOuterSpace?tab=repositories)
 
   
