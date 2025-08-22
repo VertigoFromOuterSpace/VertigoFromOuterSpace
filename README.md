@@ -85,13 +85,6 @@ P05_DEPLOY :: Lançamento.
 </div>
 
 ```diff
-XML
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=7" alt="Glitch Divider"/>
-</div>
-
-```diff
 - > Executando system_check.sh...
 
 [2025-08-22 10:08:37] [INFO] - Inicializando diagnóstico do Cyberdeck v1.3...
@@ -101,4 +94,9 @@ XML
 [2025-08-22 10:08:37] [INFO] - Todos os sistemas operacionais. Verificação concluída.
 
 # "A mente é como um paraquedas. Só funciona se estiver aberta."
-
+```
+<div align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-Online-brightgreen%3Fstyle%3Dfor-the-badge%26logo%3DPowerShell" alt="Status"/>
+<img src="https://img.shields.io/badge/Commits-480-blue?style=for-the-badge&logo=git" alt="Commits"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Threat_Level-Moderate-orange%3Fstyle%3Dfor-the-badge%26logo%3Dadguard" alt="Threat Level"/>
+</div>
