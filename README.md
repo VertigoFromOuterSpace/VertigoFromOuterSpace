@@ -22,6 +22,7 @@
 [41m-   7                             
 
 
+
 ```
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&size=14&color=FFFFFF&vCenter=true&width=250&lines=[vertigo@desktop+~]$)
 
