@@ -1,5 +1,6 @@
-[vertigo@desktop ~]$ neofetch‎
-
+```diff
++ [vertigo@desktop ~]$ neofetch‎
+```
 ```diff
 
 - 7777          35            7777‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎vertigo@PC
