@@ -1,5 +1,3 @@
-```diff
-‎ 
 [vertigo@desktop ~]$ neofetch‎
 
 ```diff
