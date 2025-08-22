@@ -35,7 +35,7 @@
 
 ---
 
-## 🛠 Como eu crio meus softwares
+##  Como eu crio meus softwares
 1. **Ideia** → tudo começa no conceito.  
 2. **Requisitos & Regras de Negócio** → defino o núcleo.  
 3. **Prototipagem** → evolução rápida, correção em tempo real.  
