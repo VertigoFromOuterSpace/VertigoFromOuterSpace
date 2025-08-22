@@ -95,8 +95,4 @@ P05_DEPLOY :: Lançamento.
 
 # "A mente é como um paraquedas. Só funciona se estiver aberta."
 ```
-<div align="center">
-<img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge&logo=pwr" alt="Status"/>
-<img src="https://img.shields.io/badge/Commits-480-blue?style=for-the-badge&logo=git" alt="Commits"/>
-<img src="https://img.shields.io/badge/Threat_Level-Extreme-red?style=for-the-badge&logo=adguard&logoColor=white" alt="Threat Level"/>
-</div>
+
