@@ -1,43 +1,48 @@
 <svg width="800" height="20" viewBox="0 0 800 20" fill="none" xmlns="http://www.w3.org/2000/svg" overflow="visible">
   <style>
-    /* Keyframes para a animação de tremor/movimento */
-    @keyframes jitter {
-      0%, 100% { transform: translateX(0); }
-      25% { transform: translateX(-2px); }
-      50% { transform: translateX(2px); }
-      75% { transform: translateX(-1px); }
+    /* Keyframes para a animação de tremor/movimento mais agressiva */
+    @keyframes jitter-fast {
+      0%, 100% { transform: translate(0, 0); }
+      20% { transform: translate(-3px, -2px); }
+      40% { transform: translate(4px, 1px); }
+      60% { transform: translate(-2px, 2px); }
+      80% { transform: translate(2px, -1px); }
     }
 
-    /* Keyframes para a animação de piscar mais intensa */
-    @keyframes intense-flicker {
-      0%, 100% { opacity: 0.9; }
-      20% { opacity: 0.2; }
-      40% { opacity: 1; }
-      60% { opacity: 0.4; }
-      80% { opacity: 0.8; }
+    /* Keyframes para a animação de piscar bem mais rápida */
+    @keyframes hyper-flicker {
+      0%, 100% { opacity: 1; }
+      25% { opacity: 0.2; }
+      50% { opacity: 0.9; }
+      75% { opacity: 0.4; }
     }
 
-    /* Estilo base para os caracteres */
+    /* Estilo base para os caracteres com animações aceleradas */
     .zalgo text {
       font-family: 'Courier New', Courier, monospace;
       font-size: 14px;
       fill: #a2a2a2;
-      /* Aplica as duas animações ao mesmo tempo */
+      /* Aplica as animações com durações muito curtas */
       animation: 
-        intense-flicker 1.2s infinite step-end,
-        jitter 0.3s infinite ease-in-out;
+        hyper-flicker 0.5s infinite step-end,
+        jitter-fast 0.2s infinite ease-in-out;
     }
 
-    /* Variação para os elementos pares, para que não se movam todos juntos */
+    /* Variação para os elementos pares, para criar mais caos */
     .zalgo text:nth-child(even) {
-      animation-duration: 0.8s, 0.4s; /* Deixa a animação com velocidades diferentes */
+      animation-duration: 0.3s, 0.15s; /* Ainda mais rápido */
+    }
+
+    /* Variação para cada 3º elemento, para quebrar mais ainda o padrão */
+    .zalgo text:nth-child(3n) {
+        animation-direction: normal, reverse; /* Inverte a direção do tremor */
     }
   </style>
   
   <rect width="100%" height="2" y="9" fill="#39d353"/>
   
   <g class="zalgo">
-    <text x="25" y="-12">V̵̡̢̢̧̢̧̢̡̨̡̢̨̡̛̛̛̛̘̲͓̳̯͖̯̞̣̯̳̹̟̖͖̖̝̩̙̖̟̣̬̗̤̻̳̩̪͎̰͖̪̥͓͉͙̗̰̮̲̟̭̞̲̣̦̱̩͎̬̮̜̪̠̰̘̥̝͇̺̼͎͉͉͎̝͉̟͔̣̯̩̥̥̠̫̣̰̯̫̱͓͍͕͉̱̦̠̞̼̙͕̩͖͍͉͕̮̜͍͎̠̝̘͌̓͋̀̒̓͐̆̈́̈̈́̑͐͆͊̅̾̽͑̀̀̇̂͂̔̿̐̅̿͋̅̾͋̈̀̐̍̄̉͗̊́͐̒̒̇͒̄͋́͐̑̃̔̊̈́̆̕̕͘̕͜͜͜͜͝͝͠͠͠ͅͅͅ</text>
+    <text x="25" y="-12">¦</text>
     <text x="28" y="-2">|</text>
     <text x="26" y="10">▒</text>
     <text x="30" y="25">▓</text>
@@ -65,7 +70,7 @@
     <text x="413" y="2">¦</text>
     <text x="411" y="22">▒</text>
     <text x="414" y="42">▓</text>
-    <text x="490" y="-4">V̵̡̢̢̧̢̧̢̡̨̡̢̨̡̛̛̛̛̘̲͓̳̯͖̯̞̣̯̳̹̟̖͖̖̝̩̙̖̟̣̬̗̤̻̳̩̪͎̰͖̪̥͓͉͙̗̰̮̲̟̭̞̲̣̦̱̩͎̬̮̜̪̠̰̘̥̝͇̺̼͎͉͉͎̝͉̟͔̣̯̩̥̥̠̫̣̰̯̫̱͓͍͕͉̱̦̠̞̼̙͕̩͖͍͉͕̮̜͍͎̠̝̘͌̓͋̀̒̓͐̆̈́̈̈́̑͐͆͊̅̾̽͑̀̀̇̂͂̔̿̐̅̿͋̅̾͋̈̀̐̍̄̉͗̊́͐̒̒̇͒̄͋́͐̑̃̔̊̈́̆̕̕͘̕͜͜͜͜͝͝͠͠͠ͅͅͅ</text>
+    <text x="490" y="-4">▒</text>
     <text x="492" y="20">|</text>
     <text x="491" y="38">¦</text>
     <text x="560" y="-22">▓</text>
@@ -78,7 +83,7 @@
     <text x="631" y="30">¦</text>
     <text x="700" y="-9">▓</text>
     <text x="702" y="14">|</text>
-    <text x="701" y="34">V̵̡̢̢̧̢̧̢̡̨̡̢̨̡̛̛̛̛̘̲͓̳̯͖̯̞̣̯̳̹̟̖͖̖̝̩̙̖̟̣̬̗̤̻̳̩̪͎̰͖̪̥͓͉͙̗̰̮̲̟̭̞̲̣̦̱̩͎̬̮̜̪̠̰̘̥̝͇̺̼͎͉͉͎̝͉̟͔̣̯̩̥̥̠̫̣̰̯̫̱͓͍͕͉̱̦̠̞̼̙͕̩͖͍͉͕̮̜͍͎̠̝̘͌̓͋̀̒̓͐̆̈́̈̈́̑͐͆͊̅̾̽͑̀̀̇̂͂̔̿̐̅̿͋̅̾͋̈̀̐̍̄̉͗̊́͐̒̒̇͒̄͋́͐̑̃̔̊̈́̆̕̕͘̕͜͜͜͜͝͝͠͠͠ͅͅͅ</text>
+    <text x="701" y="34">▒</text>
     <text x="750" y="-16">¦</text>
     <text x="753" y="-2">|</text>
     <text x="751" y="21">▓</text>
