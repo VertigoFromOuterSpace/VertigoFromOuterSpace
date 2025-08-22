@@ -22,9 +22,23 @@ echo  ╚═══════════════════════�
 ```diff
 - > CONNECTION ESTABLISHED... ANALYZING SOURCE... █
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,js,php,html,css&perline=5&theme=dark" alt="Linguagens"><br>
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,obsidian&perline=6&theme=dark" alt="Infra & Tools"><br>
-<img src="https://skillicons.dev/icons?i=gamemakerstudio,robloxstudio&perline=7&theme=dark" alt="Game Dev">
+  #!/bin/bash
+#
+# Inicializando user_profile.sh
+# Alvo: [Divisão de Cibersegurança & Inteligência Artificial]
+# Nível de Acesso: [Ultra Secreto]
+#
+
+# --- INÍCIO DA TRANSMISSÃO ---
+
+echo "Inicializando conexão com a Rede..."
+sleep 1
+echo "Contornando firewalls... Acesso concedido."
+sleep 1
+echo "Bem-vindo, Netrunner."
+
+cat << "EOF"
+
 </div>
 
 ```
