@@ -142,21 +142,15 @@ def update_readme(readme_path="README.md"):
         save_svg_files()
                 cache_bust = int(datetime.now().timestamp())
                 # Se existir GIF, usa o GIF, senão usa o SVG
-                gif_url = f"https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/cyber_glitch.gif?v={cache_bust}"
-                svg_url = f"https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/cyber_glitch.svg?v={cache_bust}"
-                import os
-                gif_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), '.assets', 'cyber_glitch.gif')
-                if os.path.exists(gif_path):
+                        gif_url = f"https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/cyber_glitch.gif?v={cache_bust}"
                         main_img = f'<img src="{gif_url}" alt="Cyber Glitch Animation"/>'
-                else:
-                        main_img = f'<img src="{svg_url}" alt="Cyber Glitch Animation"/>'
 
-                svg_content = f"""
-**🎨 LIVE CYBERDECK VISUAL**
+                        svg_content = f"""
+        **🎨 LIVE CYBERDECK VISUAL**
 
-<div align="center">
-    {main_img}
-</div>
+        <div align="center">
+            {main_img}
+        </div>
 
 **📊 SYSTEM METRICS**
 
