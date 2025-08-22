@@ -38,7 +38,7 @@ Diff
 | `0x00` | Mod para Project Zomboid                                    | `Lua`                    |
 | `0x00` | Website End-to-End                                          | `PHP`                    |
 | `0x00` | **[IA]** Script Exportação VSCode → Obsidian (Auto-comment) | `Python` + `AI`          |
-```
+
 <a href="https://github.com/VertigoFromOuterSpace?tab=repositories">dump all files ❯</a>
 </p>
 
@@ -50,23 +50,21 @@ O epicentro. Interface física e digital para a infosfera. Anos de pesquisa, có
 >> INJECT PAYLOAD <<
 <details>
 <summary><code>> Decompiling author_protocol.bin...</code></summary>
-```diff
+
 <br>
-<ol>
-<li><b>P01_CONCEPT</b> :: Geração do espectro inicial.</li>
-<li><b>P02_ARCHITECT</b> :: Definição de parâmetros de núcleo.</li>
-<li><b>P03_PROTOTYPE</b> :: Construção de chassis funcional e testes de incursão.</li>
-<li><b>P04_AUGMENT</b> :: Integração de módulos e refatoração da arquitetura.</li>
-<li><b>P05_DEPLOY</b> :: Teste de estresse final e liberação na rede.</li>
-</ol>
+  <ol>
+    <li><b>P01_CONCEPT</b> :: Geração do espectro inicial.</li>
+    <li><b>P02_ARCHITECT</b> :: Definição de parâmetros de núcleo.</li>
+    <li><b>P03_PROTOTYPE</b> :: Construção de chassis funcional e testes de incursão.</li>
+    <li><b>P04_AUGMENT</b> :: Integração de módulos e refatoração da arquitetura.</li>
+    <li><b>P05_DEPLOY</b> :: Teste de estresse final e liberação na rede.</li>
+  </ol>
 </details>
-```
-Diff
+
 
 + > tail -f /var/log/system.log
 <div align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=00FF7F&center=true&vCenter=true&width=550&lines=USER%3A+Vertigo;AUTH_STATUS%3A+ROOT_ACCESS;INITIATING+OVERRIDE...;TARGET%3A+CYBERDECK.sh;SYSTEM_MESSAGE%3A+Stay+sharp." alt="Animação de Terminal" />
+
 </a>
 </div>
 <br>
@@ -84,4 +82,20 @@ Diff
 <div align="center">
   <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=1" alt="Glitch Divider"/>
 </div>
-
+```
+<div align="center">
+  <pre>  
+    ,.-.                                 _,.,  °         ,. -  .,                       ,  . .,  °          ,.-·.               ,.-·^*ª'` ·,               , ·. ,.-·~·.,   ‘    
+   /   ';\ '                       ,.·'´  ,. ,  `;\ '     ,' ,. -  .,  `' ·,          ;'´    ,   ., _';\'       /    ;'\'          .·´ ,·'´:¯'`·,  '\‘           /  ·'´,.-·-.,   `,'‚    
+  ';    ;:'\      ,·'´';          .´   ;´:::::\`'´ \'\     '; '·~;:::::'`,   ';\       \:´¨¯:;'   `;::'\:'\     ;    ;:::\       ,´  ,'\:::::::::\,.·\'         /  .'´\:::::::'\   '\ °  
+   ';   ;::;     ,'  ,''\        /   ,'::\::::::\:::\:'     ;   ,':\::;:´  .·´::\'       \::::;   ,'::_'\;'    ';    ;::::;'     /   /:::\;·'´¯'`·;\:::\°    ,·'  ,'::::\:;:-·-:';  ';\‚  
+   ';   ';::;   ,'  ,':::'\'     ;   ;:;:-·'~^ª*';\'´       ;  ·'-·'´,.-·'´:::::::';          ,'  ,'::;'  ‘       ;   ;::::;     ;   ;:::;'          '\;:·´   ;.   ';:::;´       ,'  ,':'\‚ 
+    ';   ;:;  ,'  ,':::::;'     ;  ,.-·:*'´¨'`*´\::\ '    ;´    ':,´:::::::::::·´'           ;  ;:::;  °      ';  ;'::::;     ';   ;::/      ,·´¯';  °      ';   ;::;       ,'´ .'´\::';‚
+     ;   ;:;'´ ,'::::::;'  '   ;   ;\::::::::::::'\;'      ';  ,    `·:;:-·'´                ;  ;::;'  ‘       ;  ';:::';      ';   '·;'   ,.·´,    ;'\        ';   ':;:   ,.·´,.·´::::\;'°
+     ';   '´ ,·':::::;'        ;  ;'_\_:;:: -·^*';\      ; ,':\'`:·.,  ` ·.,               ;  ;::;'‚         ';  ;::::;'     \'·.    `'´,.·:´';   ;::\'       \·,   `*´,.·'´::::::;·´   
+      ,'   ,.'\::;·´          ';    ,  ,. -·:*'´:\:'\°    \·-;::\:::::'`:·-.,';             ',.'\::;'‚          \*´\:::;‘      '\::\¯::::::::';   ;::'; ‘      \\:¯::\:::::::;:·´      
+      \`*´\:::\;     ‘        \`*´ ¯\:::::::::::\;' '    \::\:;'` ·:;:::::\::\'            \::\:;'‚           '\::\:;'         `·:\:::;:·´';.·´\::;'          `\:::::\;::·'´  °       
+       '\:::\;'                  \:::::\;::-·^*'´          '·-·'       `' · -':::''            \;:'      ‘         `*´‘              ¯      \::::\;'‚              ¯                  
+         `*´‘                     `*´¯                                                      °                                           '\:·´'                 ‘                  
+  </pre>
+</div>
