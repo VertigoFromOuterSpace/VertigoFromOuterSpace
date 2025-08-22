@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=7" alt="Glitch Divider"/>
 </div>
-```
+
+```diff
 ‎ 
 [vertigo@desktop ~]$ neofetch‎ 
 
@@ -23,9 +24,11 @@
   7                             
 
 [vertigo@desktop ~]$ █
+
 ‎```
 ‎ 
 ```diff
+
 import numpy as np
 
 class NeuralNetwork:
