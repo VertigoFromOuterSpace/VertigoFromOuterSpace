@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=7" alt="Glitch Divider"/>
 </div>
+
 <div align="center">
   <pre>
 echo  ╔═══════════════════════════════════════════════════════════════╗
@@ -25,6 +26,13 @@ echo  ╚═══════════════════════�
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,obsidian&perline=6&theme=dark" alt="Infra & Tools"><br>
 <img src="https://skillicons.dev/icons?i=gamemakerstudio,robloxstudio&perline=7&theme=dark" alt="Game Dev">
 </div>
+
+```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=7" alt="Glitch Divider"/>
+</div>
+
+```diff
 
 - > boot sequence: cyberdeck v3.14 (mancer mode)  [online]
 - > STATUS REPORT ( /sys/root )
@@ -58,7 +66,12 @@ P05_DEPLOY :: Lançamento.
 
 <details>
 <summary><code>&gt; Decompiling author_protocol.bin...</code></summary>
+```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=7" alt="Glitch Divider"/>
+</div>
 
+```diff
 XML
 
 <phase id="P03_PROTOTYPE">
@@ -101,6 +114,13 @@ REAL-TIME STATUS
 ║ UPTIME: 08:55:29        UTC: 22/08   ║
 ║ QUOTE: "Follow the white rabbit  "   ║
 ╚══════════════════════════════════════╝
+
+```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=7" alt="Glitch Divider"/>
+</div>
+
+```diff
 <div align="center">
 <img src="https://img.shields.io/badge/Status-Morning_Hack-brightgreen?style=for-the-badge&logo=hackaday" alt="Status"/>
 <img src="https://img.shields.io/badge/Commits-480-blue?style=for-the-badge&logo=git" alt="Commits"/>
