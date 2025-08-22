@@ -53,21 +53,16 @@ O epicentro. Interface física e digital para a infosfera. Anos de pesquisa, có
 
 <br>
   <ol>
-    <li><b>P01_CONCEPT</b> :: Geração do espectro inicial.</li>
-    <li><b>P02_ARCHITECT</b> :: Definição de parâmetros de núcleo.</li>
-    <li><b>P03_PROTOTYPE</b> :: Construção de chassis funcional e testes de incursão.</li>
-    <li><b>P04_AUGMENT</b> :: Integração de módulos e refatoração da arquitetura.</li>
-    <li><b>P05_DEPLOY</b> :: Teste de estresse final e liberação na rede.</li>
+    <li><b>P01_CONCEPT</b> :: Geração do primeiro conceito através da ideia. //</li>
+    <li><b>P02_ARCHITECT</b> :: Definição dos requisitos necessários. // </li>
+    <li><b>P03_PROTOTYPE</b> :: Construção e desenvolvimento do programa. // </li>
+    <li><b>P04_AUGMENT</b> :: Verificação e testes contínuos, pois eu prefiro esse método. //</li>
+    <li><b>P05_DEPLOY</b> :: Lançamento do programa. //</li>
   </ol>
 </details>
 
 
 + > tail -f /var/log/system.log
-<div align="center">
-
-</a>
-</div>
-<br>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=1" alt="Glitch Divider"/>
