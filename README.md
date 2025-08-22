@@ -79,12 +79,7 @@ P05_DEPLOY :: Lançamento.
 
 <details>
 <summary><code>&gt; Decompiling author_protocol.bin...</code></summary>
-```
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=7" alt="Glitch Divider"/>
-</div>
 
-```diff
 - > Executando system_check.sh...
 
 [2025-08-22 10:08:37] [INFO] - Inicializando diagnóstico do Cyberdeck v1.3...
@@ -92,6 +87,9 @@ P05_DEPLOY :: Lançamento.
 [2025-08-22 10:08:37] [OK]   - Módulos de Criptografia: ATIVOS [QUÂNTICA]
 [2025-08-22 10:08:37] [WARN] - Nível de Ameaça........: MODERADO
 [2025-08-22 10:08:37] [INFO] - Todos os sistemas operacionais. Verificação concluída.
-
+```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=7" alt="Glitch Divider"/>
+</div>
 ```
 
