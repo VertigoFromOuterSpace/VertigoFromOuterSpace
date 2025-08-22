@@ -51,14 +51,17 @@ cat << "EOF"
 - > boot sequence: cyberdeck v3.14 (mancer mode)  [online]
 - > STATUS REPORT ( /sys/root )
 VertigoFromOuterSpace
-HEX	PROJECT / DESCRIÇÃO	STACK
-0xFF	Calculadora de Dose Máxima Anestésica	Python
-0xFF	Packet Decryption Tool (Base64/Wireshark)	Python
-0xCC	Script de Negação de Vida (Roblox - Libras)	Lua
-0xCC	Aplicativo de Tarefas Diárias	JavaScript
-0x00	Mod para Project Zomboid	Lua
-0x00	Website End-to-End	PHP
-0x00	[IA] Exportador VSCode → Obsidian (auto-comment)	Python + AI
++------+-------------------------------------------------+--------------+
+| HEX  |               PROJECT / DESCRIÇÃO               |    STACK     |
++------+-------------------------------------------------+--------------+
+| 0xFF | Calculadora de Dose Máxima Anestésica           | Python       |
+| 0xFF | Packet Decryption Tool (Base64/Wireshark)       | Python       |
+| 0xCC | Script de Negação de Vida (Roblox - Libras)     | Lua          |
+| 0xCC | Aplicativo de Tarefas Diárias                   | JavaScript   |
+| 0x00 | Mod para Project Zomboid                        | Lua          |
+| 0x00 | Website End-to-End                              | PHP          |
+| 0x00 | [IA] Exportador VSCode → Obsidian (auto-comment)| Python + AI  |
++------+-------------------------------------------------+--------------+
 ```
 <div align="right">
   dump all files<a href="https://github.com/VertigoFromOuterSpace?tab=repositories">  ❯ </a>
