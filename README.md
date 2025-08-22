@@ -21,6 +21,7 @@
 [41m- 7                               
 [41m-   7                             
 
+```
 ```ansi
 
 [vertigo@desktop ~]$ neofetch
