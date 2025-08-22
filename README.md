@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=7" alt="Glitch Divider"/>
-</div>
-
 ```diff
 ‎ 
 [vertigo@desktop ~]$ neofetch‎
@@ -80,3 +76,7 @@ class NeuralNetwork:
         correct_logprobs = -np.log(self.probs[range(len(X)), y])
         data_loss = np.sum(correct_logprobs) / len(X)
         return data_loss
+```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=7" alt="Glitch Divider"/>
+</div>
