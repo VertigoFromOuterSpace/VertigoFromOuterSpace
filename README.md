@@ -16,27 +16,6 @@
 
 ---
 
-<table>
-  <tr valign="top">
-    <td width="60%">
-      <p>Olá! Sou Vertigo, um explorador do ciberespaço com foco em desenvolvimento e segurança. Minha paixão é transformar ideias em código funcional, sempre buscando soluções criativas e eficientes.</p>
-      <p>Este é meu diário de bordo digital, onde documento minha jornada, projetos e aprendizados.</p>
-      
-      <h4>🔗 Conecte-se comigo:</h4>
-      <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-      <a href="mailto:#" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
-    </td>
-    <td width="40%">
-      <div align="center">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VertigoFromOuterSpace&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VertigoFromOuterSpace&layout=compact&langs_count=7&theme=tokyonight"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🛠️ // Tech Stack
 
 <p align="center">
