@@ -1,16 +1,16 @@
-<h1 align="center">⚡ CYBERSPACE LOG // VERTIGO ⚡</h1>
+<h1 align="center">CYBERSPACE LOG // VERTIGO </h1>
 <p align="center">"Estudando, explorando e defendendo o que importa." 🛡️</p>
 
 ---
 
-## 🔮 STATUS: Always Learning | Always Building
+##  STATUS: Always Learning | Always Building
 
-### 🌐 Conhecimentos Atuais
+###  Conhecimentos Atuais
 [![Meus conhecimentos](https://skillicons.dev/icons?i=js,html,css,aws,gamemakerstudio,git,github,redhat,php,py,robloxstudio,vscode&perline=6)](https://skillicons.dev)
 
 ---
 
-## 📡 Projetos em Andamento
+##  Projetos em Andamento
 🟩 > **Feito** | 🟨 > **Em Progresso** | 🟥 > **A Fazer**
 
 - 🟩 Relatório de chamados (Classecon) → <strong>Python</strong>  
@@ -29,13 +29,13 @@
 
 ---
 
-## 🧠 Projeto Supremo (5 anos)
+##  Projeto Supremo (5 anos)
 > [CYBERDECK](https://github.com/VertigoFromOuterSpace/Cyberdeck)  
 ⚠️ Objetivo de longa data. O núcleo de tudo.  
 
 ---
 
-## 🛠️ Como eu crio meus softwares
+## 🛠 Como eu crio meus softwares
 1. **Ideia** → tudo começa no conceito.  
 2. **Requisitos & Regras de Negócio** → defino o núcleo.  
 3. **Prototipagem** → evolução rápida, correção em tempo real.  
