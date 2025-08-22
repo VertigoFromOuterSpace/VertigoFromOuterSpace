@@ -3,6 +3,11 @@
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/animated_header.svg" alt="Animated Header"/>
+</div>
+
+
+<div align="center">
   <pre>
 echo  ╔═══════════════════════════════════════════════════════════════╗
 echo  ║  ██╗   ██╗███████╗██████╗ ████████╗██╗ ██████╗  ██████╗       ║
