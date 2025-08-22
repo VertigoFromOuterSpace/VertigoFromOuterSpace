@@ -59,10 +59,9 @@ HEX	PROJECT / DESCRIÇÃO	STACK
 0x00	Mod para Project Zomboid	Lua
 0x00	Website End-to-End	PHP
 0x00	[IA] Exportador VSCode → Obsidian (auto-comment)	Python + AI
-
-Exportar para as Planilhas
-🔗 dump all files ❯
-
+```
+dump all files ❯
+``` diff
 - > ROOT ACCESS: PROJECT_CYBERDECK
 [!WARNING] O epicentro. Interface física & digital da infosfera — anos de pesquisa, código e cromo empacotados num único artefato.
 
