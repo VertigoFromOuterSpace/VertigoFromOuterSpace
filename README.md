@@ -24,14 +24,14 @@ echo  ╚═══════════════════════�
 
 ```diff
 + > CONNECTION ESTABLISHED... ANALYZING SOURCE... █
-+ > boot sequence: cyberdeck v3.14 (mancer mode)  [online]
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,js,php,html,css&perline=5&theme=dark" alt="Linguagens"><br>
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,obsidian&perline=6&theme=dark" alt="Infra & Tools"><br>
 <img src="https://skillicons.dev/icons?i=gamemakerstudio,robloxstudio&perline=7&theme=dark" alt="Game Dev">
 </div>
 
-STATUS REPORT ( /sys/root )
++ > boot sequence: cyberdeck v3.14 (mancer mode)  [online]
++ > STATUS REPORT ( /sys/root )
 VertigoFromOuterSpace
 HEX	PROJECT / DESCRIÇÃO	STACK
 0xFF	Calculadora de Dose Máxima Anestésica	Python
@@ -45,7 +45,7 @@ HEX	PROJECT / DESCRIÇÃO	STACK
 Exportar para as Planilhas
 🔗 dump all files ❯
 
-ROOT ACCESS: PROJECT_CYBERDECK
++ > ROOT ACCESS: PROJECT_CYBERDECK
 [!WARNING] O epicentro. Interface física & digital da infosfera — anos de pesquisa, código e cromo empacotados num único artefato.
 
 Pipeline (autor_protocol.bin):
@@ -71,7 +71,7 @@ XML
 </phase>
 </details>
 
-🎮 MATRIX STYLE ACTIVE
+- > MATRIX STYLE ACTIVE
 
  110+ +010|1|- |000 11-  11 |+0  -1++|1     0-1 -1   1   -0- 0 1|10+
 01 1- - ++ -0|   1++0 1|-0  | +1 010 11-+ 0++|0||0 11  ++  -0+|--- 1+|
@@ -79,7 +79,8 @@ XML
    -| 1 0 + 011- --++- + +|000 1+0 1-- ||-1|10 +0 |||- + 111 1++   10
 00  1 1  01-|010| 11000 0000++0|000+ 0111|0|  000+ |1-++1|- - 1- 01- +
 0 |001+0-+-01-|0 +0 1  +- -  0||- 001++0  0 1+0+|111   +-  011| 1  -10
-📡 SYSTEM SCAN RESULTS
+
++ > SYSTEM SCAN RESULTS
 
 [2025-08-22 08:55:29] [>] CYBERDECK :: SCAN ENGINE v0.7 <]>
 Initializing kernel modules....[ERR]
@@ -90,9 +91,9 @@ Testing network interfaces.....[OK]
 Mounting file systems..........[OK]
 Starting background services...[OK]
 
- > SCAN COMPLETE [SYSTEM] - all systems nominally
-🕒 Last updated: 2025-08-22 08:55:29 | Style: matrix | Scan: system
-⚡ REAL-TIME STATUS
++ > SCAN COMPLETE [SYSTEM] - all systems nominally
++ > Last updated: 2025-08-22 08:55:29 | Style: matrix | Scan: system
+REAL-TIME STATUS
 
 ╔══════════════════════════════════════╗
 ║        CYBERDECK STATUS BOARD        ║
@@ -108,24 +109,6 @@ Starting background services...[OK]
 <img src="https://img.shields.io/badge/Status-Morning_Hack-brightgreen?style=for-the-badge&logo=hackaday" alt="Status"/>
 <img src="https://img.shields.io/badge/Commits-480-blue?style=for-the-badge&logo=git" alt="Commits"/>
 <img src="https://img.shields.io/badge/Last_Update-08:55:29-purple?style=for-the-badge&logo=clockify" alt="Last Update"/>
-</div>
-🎨 LIVE CYBERDECK VISUAL
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/cyber_glitch.svg?v=1755863729" alt="Cyber Glitch Animation"/>
-</div>
-
-📊 SYSTEM METRICS
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/progress_cpu_load.svg?v=1755863729" alt="CPU Load"/>
-<img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/progress_mem_usage.svg?v=1755863729" alt="Memory Usage"/>
-</div>
-
-🔐 STATUS BADGE
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/status_badge.svg?v=1755863729" alt="Status Badge"/>
 </div>
 
 
