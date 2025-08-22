@@ -25,8 +25,8 @@
 
 [vertigo@desktop ~]$ █
 
-‎```
-‎ 
+```
+
 ```diff
 
 import numpy as np
