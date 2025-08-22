@@ -4,17 +4,24 @@
 
 <div align="center">
   <pre>
- █████   █████                     █████     ███                   
-░░███   ░░███                     ░░███     ░░░                    
- ░███    ░███   ██████  ████████  ███████   ████   ███████  ██████ 
- ░███    ░███  ███░░███░░███░░███░░░███░   ░░███  ███░░███ ███░░███
- ░░███   ███  ░███████  ░███ ░░░   ░███     ░███ ░███ ░███░███ ░███
-  ░░░█████░   ░███░░░   ░███       ░███ ███ ░███ ░███ ░███░███ ░███
-    ░░███     ░░██████  █████      ░░█████  █████░░███████░░██████ 
-     ░░░       ░░░░░░  ░░░░░        ░░░░░  ░░░░░  ░░░░░███ ░░░░░░  
-                                                  ███ ░███         
-                                                 ░░██████          
-                                                  ░░░░░░             </pre>
+                                                                  
+                                                            :     
+                   ,;                                      t#,    
+                 f#i j.                 t           .Gt   ;##W.   
+               .E#t  EW,       GEEEEEEELEj         j#W:  :#L:WE   
+  t      .DD. i#W,   E##j      ,;;L#K;;.E#,      ;K#f   .KG  ,#D  
+  EK:   ,WK. L#D.    E###D.       t#E   E#t    .G#D.    EE    ;#f 
+  E#t  i#D :K#Wfff;  E#jG#W;      t#E   E#t   j#K;     f#.     t#i
+  E#t j#f  i##WLLLLt E#t t##f     t#E   E#t ,K#f   ,GD;:#G     GK 
+  E#tL#i    .E#L     E#t  :K#E:   t#E   E#t  j#Wi   E#t ;#L   LW. 
+  E#WW,       f#E:   E#KDDDD###i  t#E   E#t   .G#D: E#t  t#f f#:  
+  E#K:         ,WW;  E#f,t#Wi,,,  t#E   E#t     ,K#fK#t   f#D#;   
+  ED.           .D#; E#t  ;#W:    t#E   E#t       j###t    G#t    
+  t               tt DWi   ,KK:    fE   E#t        .G#t     t     
+                                    :   ,;.          ;;           
+                                                                  
+  
+  </pre>
 </div>
 
 > `> CONNECTION ESTABLISHED... ANALYZING SOURCE... █`
