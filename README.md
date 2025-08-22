@@ -50,6 +50,9 @@ cat << "EOF"
 
 - > boot sequence: cyberdeck v3.14 (mancer mode)  [online]
 - > STATUS REPORT ( /sys/root )
+
+```
+```
 VertigoFromOuterSpace
 -+------+-------------------------------------------------+--------------+
  | HEX  |               PROJECT / DESCRIÇÃO               |    STACK     |
@@ -63,6 +66,7 @@ VertigoFromOuterSpace
  | 0x00 | [IA] Exportador VSCode → Obsidian (auto-comment)| Python + AI  |
 -+------+-------------------------------------------------+--------------+
 ```
+```diff
 <div align="right">
   dump all files<a href="https://github.com/VertigoFromOuterSpace?tab=repositories">  ❯ </a>
 </div>
