@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/d30qasS43xV2o/giphy.gif" width="100%"/>
+  <img src="https://i.pinimg.com/originals/96/c2/b8/96c2b8429551d02c39255a1532050e18.gif" width="100%"/>
   <h1>CYBERSPACE LOG // VERTIGO</h1>
   <p>"Estudando, explorando e defendendo o que importa." 🛡️</p>
 </div>
@@ -15,8 +15,9 @@
       <p>Este é meu diário de bordo digital, onde documento minha jornada, projetos e aprendizados.</p>
       
       <h4>🔗 Conecte-se comigo:</h4>
-      <a href="URL-DO-SEU-LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-      </td>
+      <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+      <a href="mailto:#" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+    </td>
     <td width="40%">
       <div align="center">
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VertigoFromOuterSpace&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -78,10 +79,10 @@
 
 ---
 
-### 🐍 // Extras
+### 🐍 // Gráfico de Contribuições Animado
 
 <div align="center">
-  <img src="https://github.com/VertigoFromOuterSpace/VertigoFromOuterSpace/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/output/github-contribution-grid-snake.svg" alt="snake">
 </div>
 
 <p align="center">
@@ -89,3 +90,4 @@
 </p>
 
 <p align="center"><i>「 Be Safe. Stay Sharp. Stay Cyberpunk. 」</i></p>
+
