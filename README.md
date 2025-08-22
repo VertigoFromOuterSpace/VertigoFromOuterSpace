@@ -4,7 +4,9 @@
 
 ```diff
 ‎ 
-[vertigo@desktop ~]$ neofetch‎ 
+[vertigo@desktop ~]$ neofetch‎
+
+```diff
 
 7777          35            7777‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎vertigo@PC
 777           55             777 ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎-----------
@@ -23,6 +25,7 @@
 7                               
   7                             
 
+```
 [vertigo@desktop ~]$ █
 
 ```
