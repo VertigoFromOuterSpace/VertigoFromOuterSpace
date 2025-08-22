@@ -1,20 +1,15 @@
 <div align="center">
-<img src="https://i.imgur.com/LOKV4b8.gif" alt="Cyberpunk Header" width="100%"/>
+<div class="tenor-gif-embed" data-postid="25998936" data-share-method="host" data-aspect-ratio="2.5" data-width="100%"><a href="https://tenor.com/view/cyberpunk-blackwall-gif-25998936">Cyberpunk Blackwall GIF</a>from <a href="https://tenor.com/search/cyberpunk-gifs">Cyberpunk GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 <div align="center">
   <pre>
-      ___           ___           ___           ___                       ___           ___     
-     /\__\         /\  \         /\  \         /\  \          ___        /\  \         /\  \    
-    /:/  /        /::\  \       /::\  \        \:\  \        /\  \      /::\  \       /::\  \   
-   /:/  /        /:/\:\  \     /:/\:\  \        \:\  \       \:\  \    /:/\:\  \     /:/\:\  \  
-  /:/__/  ___   /::\~\:\  \   /::\~\:\  \       /::\  \      /::\__\  /:/  \:\  \   /:/  \:\  \ 
-  |:|  | /\__\ /:/\:\ \:\__\ /:/\:\ \:\__\     /:/\:\__\  __/:/\/__/ /:/__/_\:\__\ /:/__/ \:\__\
-  |:|  |/:/  / \:\~\:\ \/__/ \/_|::\/:/  /    /:/  \/__/ /\/:/  /    \:\  /\ \/__/ \:\  \ /:/  /
-  |:|__/:/  /   \:\ \:\__\      |:|::/  /    /:/  /      \::/__/      \:\ \:\__\    \:\  /:/  / 
-   \::::/__/     \:\ \/__/      |:|\/__/     \/__/        \:\__\       \:\/:/  /     \:\/:/  /  
-    ~~~~          \:\__\        |:|  |                     \/__/        \::/  /       \::/  /   
-                   \/__/         \|__|                                   \/__/         \/__/    
+ _    __          __  _           
+| |  / /__  _____/ /_(_)___ _____ 
+| | / / _ \/ ___/ __/ / __ `/ __ \
+| |/ /  __/ /  / /_/ / /_/ / /_/ /
+|___/\___/_/   \__/_/\__, /\____/ 
+                    /____/        
   </pre>
   <h1>[ NETRUNNER INTERFACE ]</h1>
   <p><i>Navegando pelos circuitos da cibersegurança e forjando inteligência artificial nas sombras do código.</i> 🛡️</p>
