@@ -16,7 +16,8 @@
                         border-color: transparent;
                     }
                     50% {
-                        border-color: #39d353;
+                        /* --- COR ALTERADA AQUI --- */
+                        border-color: #FF0040;
                     }
                 }
                 .container {
@@ -25,10 +26,10 @@
                 }
                 .text {
                     font-size: 24px;
-                    color: #39d353; /* Cor verde neon */
+                    color: #FF0040; /* Cor alterada para vermelho */
                     font-weight: bold;
                     overflow: hidden;
-                    border-right: .15em solid #39d353; /* O cursor */
+                    border-right: .15em solid #FF0040; /* Cursor alterado para vermelho */
                     white-space: nowrap;
                     margin: 0 auto;
                     letter-spacing: .10em;
