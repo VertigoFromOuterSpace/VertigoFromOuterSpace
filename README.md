@@ -60,7 +60,10 @@ HEX	PROJECT / DESCRIÇÃO	STACK
 0x00	Website End-to-End	PHP
 0x00	[IA] Exportador VSCode → Obsidian (auto-comment)	Python + AI
 ```
-dump all files ❯
+<div align="right">
+  dump all files ❯
+</div>
+
 ``` diff
 - > ROOT ACCESS: PROJECT_CYBERDECK
 [!WARNING] O epicentro. Interface física & digital da infosfera — anos de pesquisa, código e cromo empacotados num único artefato.
