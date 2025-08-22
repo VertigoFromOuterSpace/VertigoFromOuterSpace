@@ -94,6 +94,10 @@ Diff
 
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=1" alt="Glitch Divider"/>
+</div>
+
+<div align="center">
   <pre>                                                           
 _/\/\____/\/\____________________________/\/\______/\/\___________________________
 _/\/\____/\/\____/\/\/\____/\/\__/\/\__/\/\/\/\/\____________/\/\/\/\____/\/\/\___
@@ -104,45 +108,45 @@ ___________________________________________________________/\/\/\/\_____________
   </pre>
 </div>
 
----
+```diff
++ > CONNECTION ESTABLISHED... ANALYZING SOURCE... █
+Diff
 
-<span style="color:#00FF7F">+ > CONNECTION ESTABLISHED... ANALYZING SOURCE... █</span>  
-
-<span style="color:#00BFFF">+ > Running scan: core_modules.list</span>  
-<p align="center">
++ > Running scan: core_modules.list
+<div align="center">
 <img src="https://skillicons.dev/icons?i=py,js,php,html,css&perline=5&theme=dark" alt="Linguagens"><br>
 <img src="https://skillicons.dev/icons?i=aws,redhat,git,github,vscode,obsidian&perline=6&theme=dark" alt="Infra & Tools"><br>
 <img src="https://skillicons.dev/icons?i=gamemakerstudio,robloxstudio&perline=7&theme=dark" alt="Game Dev">
-</p>
+</div>
 
----
+Diff
 
-<span style="color:#FFD700">+ > Loading log: /prj/e̶x̶e̶c̶u̶tion_queue.log C O R R U P T E D</span>  
++ > Loading log: /prj/e̶x̶e̶c̶u̶tion_queue.log C O R R U P T E D
+STATUS	DESCRIÇÃO	STACK
+0xFF	~~Relatório de Chamados (Classecon)~~	Python
+0xFF	Calculadora de Dose Máxima Anestésica	Python
+0xFF	Site de Controle de Ponto	HTML, CSS, JS
+0xFF	Calculadora de Dano (Dark Souls 3)	Python
+0xFF	Packet Decryption Tool (Base64/Wireshark)	Python
+0xCC	Script de Negação de Vida (Roblox - Libras)	Lua
+0xCC	Aplicativo de Tarefas Diárias	JavaScript
+0x00	Mod para Project Zomboid	Lua
+0x00	Website End-to-End	PHP
+0x00	[IA] Script Exportação VSCode → Obsidian (Auto-comment)	Python + AI
 
-| STATUS | DESCRIÇÃO                                                   | STACK                    |
-|:------:|:------------------------------------------------------------|:-------------------------|
-| `0xFF` | ~~Relatório de Chamados (Classecon)~~                       | `Python`                 |
-| `0xFF` | Calculadora de Dose Máxima Anestésica                       | `Python`                 |
-| `0xFF` | Site de Controle de Ponto                                   | `HTML`, `CSS`, `JS`      |
-| `0xFF` | Calculadora de Dano (Dark Souls 3)                          | `Python`                 |
-| `0xFF` | Packet Decryption Tool (Base64/Wireshark)                   | `Python`                 |
-| `0xCC` | Script de Negação de Vida (Roblox - Libras)                 | `Lua`                    |
-| `0xCC` | Aplicativo de Tarefas Diárias                               | `JavaScript`             |
-| `0x00` | Mod para Project Zomboid                                    | `Lua`                    |
-| `0x00` | Website End-to-End                                          | `PHP`                    |
-| `0x00` | **[IA]** Script Exportação VSCode → Obsidian (Auto-comment) | `Python` + `AI`          |
-
+Exportar para as Planilhas
 <p align="right">
 <a href="https://github.com/VertigoFromOuterSpace?tab=repositories">dump all files ❯</a>
 </p>
 
----
+Diff
 
-<span style="color:#FF4500">+ > Accessing root process: [PROJECT_CYBERDECK]</span>  
-[!WARNING]  
-O epicentro. Interface física e digital para a infosfera. Anos de pesquisa, código e cromo culminando em uma única obra.  
++ > Accessing root process: [PROJECT_CYBERDECK]
+[!WARNING]
+O epicentro. Interface física e digital para a infosfera. Anos de pesquisa, código e cromo culminando em uma única obra.
 
-**>> INJECT PAYLOAD <<**  
+INJECT PAYLOAD <<
+
 <details>
 <summary><code>> Decompiling author_protocol.bin...</code></summary>
 <br>
@@ -155,23 +159,23 @@ O epicentro. Interface física e digital para a infosfera. Anos de pesquisa, có
 </ol>
 </details>
 
----
+Diff
 
-<span style="color:#00FF7F">+ > tail -f /var/log/system.log</span>  
++ > tail -f /var/log/system.log
 <div align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=00FF7F&center=true&vCenter=true&width=550&lines=USER%3A+Vertigo;AUTH_STATUS%3A+ROOT_ACCESS;INITIATING+OVERRIDE...;TARGET%3A+CYBERDECK.sh;SYSTEM_MESSAGE%3A+Stay+sharp." alt="Animação de Terminal" />
 </a>
 </div>
-
----
-
+<br>
 <div align="center">
 <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=1" alt="Glitch Divider"/>
 </div>
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=VertigoFromOuterSpace&show_icons=true&theme=gotham&icon_color=00ff7f&text_color=00ff7f&bg_color=0d1117&border_color=00ff7f" alt="Estatísticas do GitHub">
 </div>
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=1" alt="Glitch Divider"/>
 </div>
