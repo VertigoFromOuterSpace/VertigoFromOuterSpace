@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/2K2l1gj.gif" width="100%"/>
+  <img src="" width="100%"/>
   <br/>
   <pre>
 ██╗   ██╗███████╗██████╗ ████████╗██╗ ██████╗  ██████╗
