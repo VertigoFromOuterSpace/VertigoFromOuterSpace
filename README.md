@@ -19,15 +19,15 @@ echo  ╚═══════════════════════�
 
 
 ```diff
-+ > CONNECTION ESTABLISHED... ANALYZING SOURCE... █
+- > CONNECTION ESTABLISHED... ANALYZING SOURCE... █
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,js,php,html,css&perline=5&theme=dark" alt="Linguagens"><br>
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,obsidian&perline=6&theme=dark" alt="Infra & Tools"><br>
 <img src="https://skillicons.dev/icons?i=gamemakerstudio,robloxstudio&perline=7&theme=dark" alt="Game Dev">
 </div>
 
-+ > boot sequence: cyberdeck v3.14 (mancer mode)  [online]
-+ > STATUS REPORT ( /sys/root )
+- > boot sequence: cyberdeck v3.14 (mancer mode)  [online]
+- > STATUS REPORT ( /sys/root )
 VertigoFromOuterSpace
 HEX	PROJECT / DESCRIÇÃO	STACK
 0xFF	Calculadora de Dose Máxima Anestésica	Python
@@ -41,7 +41,7 @@ HEX	PROJECT / DESCRIÇÃO	STACK
 Exportar para as Planilhas
 🔗 dump all files ❯
 
-+ > ROOT ACCESS: PROJECT_CYBERDECK
+- > ROOT ACCESS: PROJECT_CYBERDECK
 [!WARNING] O epicentro. Interface física & digital da infosfera — anos de pesquisa, código e cromo empacotados num único artefato.
 
 Pipeline (autor_protocol.bin):
@@ -76,7 +76,7 @@ XML
 00  1 1  01-|010| 11000 0000++0|000+ 0111|0|  000+ |1-++1|- - 1- 01- +
 0 |001+0-+-01-|0 +0 1  +- -  0||- 001++0  0 1+0+|111   +-  011| 1  -10
 
-+ > SYSTEM SCAN RESULTS
+- > SYSTEM SCAN RESULTS
 
 [2025-08-22 08:55:29] [>] CYBERDECK :: SCAN ENGINE v0.7 <]>
 Initializing kernel modules....[ERR]
@@ -87,8 +87,8 @@ Testing network interfaces.....[OK]
 Mounting file systems..........[OK]
 Starting background services...[OK]
 
-+ > SCAN COMPLETE [SYSTEM] - all systems nominally
-+ > Last updated: 2025-08-22 08:55:29 | Style: matrix | Scan: system
+- > SCAN COMPLETE [SYSTEM] - all systems nominally
+- > Last updated: 2025-08-22 08:55:29 | Style: matrix | Scan: system
 REAL-TIME STATUS
 
 ╔══════════════════════════════════════╗
