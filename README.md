@@ -26,7 +26,6 @@ Diff
 
 - > Loading log: /prj/e̶x̶e̶c̶u̶tion_queue.log C O R R U P T E D
 
-
 | STATUS | DESCRIÇÃO                                                   | STACK                    |
 |:------:|:------------------------------------------------------------|:-------------------------|
 | `0xFF` | ~~Relatório de Chamados (Classecon)~~                       | `Python`                 |
@@ -39,8 +38,8 @@ Diff
 | `0x00` | Mod para Project Zomboid                                    | `Lua`                    |
 | `0x00` | Website End-to-End                                          | `PHP`                    |
 | `0x00` | **[IA]** Script Exportação VSCode → Obsidian (Auto-comment) | `Python` + `AI`          |
-<p align="right">
-<a href="https://github.com/VertigoFromOuterSpace?tab=repositories">dump all files ❯</a>
+
+ <a href="https://github.com/VertigoFromOuterSpace?tab=repositories">dump all files ❯</a>
 </p>
 
 Diff
