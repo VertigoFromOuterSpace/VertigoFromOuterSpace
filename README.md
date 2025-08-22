@@ -107,12 +107,4 @@ P05_DEPLOY :: Lançamento.
   <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=7" alt="Glitch Divider"/>
 </div>
 
-<details>
-<summary>Clique aqui para ver o conteúdo</summary>
 
-<div style="position: fixed; top: 0; left: 0; width: 100%; background-color: #ff0000; color: white; text-align: center; padding: 10px; z-index: 9999; font-size: 24px; font-weight: bold;">
-<span style="text-shadow: 0 0 10px #ff0000;">A̴̔̈L̷̚͠E̵̚̕R̸̾̚T̴̀͊Ä̷́̌!̷̕̚ ̸̎̚Y̸̿̚Ǒ̴͊Ǘ̴̎ ̸̎̚Ȟ̴̾A̷̒̚V̸̎̚Ě̴͊ ̸̎̚B̴̌̾E̷̒̚E̸̎̚Ň̴͊ ̸̎̚W̴̌̾A̷̒̚R̸̎̚Ň̴͊E̸̎̚Ď̴͊!̸̎̚</span>
-</div>
-
-Aqui está o texto que estava escondido!
-</details>
