@@ -2,8 +2,7 @@
   <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=7" alt="Glitch Divider"/>
 </div>
 
-<div align="center">
-  <pre>
+
 [vertigo@desktop ~]$ neofetch
 
 :::.        -@          .:::      vertigo@PC
@@ -23,8 +22,7 @@
  ..          ...            
 
 [vertigo@desktop ~]$ █
-  </pre>
-</div>
+
 
 ```diff
 import numpy as np
