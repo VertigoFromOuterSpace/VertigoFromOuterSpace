@@ -14,9 +14,6 @@ echo  ║    ╚═══╝  ╚══════╝╚═╝  ╚═╝   ╚
 echo  ╚═══════════════════════════════════════════════════════════════╝
   </pre>
 </div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/animated_header.svg?v=2" alt="Animated Header"/>
-</div>
 
 ```diff
 
