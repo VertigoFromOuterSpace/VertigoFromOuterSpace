@@ -69,14 +69,14 @@
 
 ### `> tail -f /var/log/system.log`
 <div align="center">
-  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=00FF7F&center=true&vCenter=true&width=550&lines=USER%3A+V](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=00FF7F&center=true&vCenter=true&width=550&lines=USER%3A+V)̵e̷r̵t̴i̷g̸o̵;AUTH_STATUS%3A+ROOT_ACCESS;INITIATING+OVERRIDE...;TARGET%3A+C̸Y̸B̸E̶R̸D̷E̴C̷K̸.sh;SYSTEM_MESSAGE%3A+S̶t̸a̷y̷+̴s̴h̶a̷r̴p̷." alt="Animação de Terminal Corrompida" loading="lazy" />
-  </a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=00FF7F&center=true&vCenter=true&width=550&lines=USER%3A+V̵e̷r̵t̴i̷g̸o̵;AUTH_STATUS%3A+ROOT_ACCESS;INITIATING+OVERRIDE...;TARGET%3A+C̸Y̸B̸E̶R̸D̷E̴C̷K̸.sh;SYSTEM_MESSAGE%3A+S̶t̸a̷y̷+̴s̴h̶a̷r̴p̷." alt="Animação de Terminal Corrompida" loading="lazy" />
+</a>
 </div>
 <br>
 
 <img src=".assets/glitch_divider.svg" alt="Glitch Divider" style="width: 100%;">
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=VertigoFromOuterSpace&show_icons=true&theme=gotham&icon_color=00ff7f&text_color=00ff7f&bg_color=0d1117&border_color=00ff7f](https://github-readme-stats.vercel.app/api?username=VertigoFromOuterSpace&show_icons=true&theme=gotham&icon_color=00ff7f&text_color=00ff7f&bg_color=0d1117&border_color=00ff7f)" alt="Estatísticas do GitHub" loading="lazy">
+<img src="https://github-readme-stats.vercel.app/api?username=VertigoFromOuterSpace&show_icons=true&theme=gotham&icon_color=00ff7f&text_color=00ff7f&bg_color=0d1117&border_color=00ff7f" alt="Estatísticas do GitHub" loading="lazy">
 </p>
 <img src=".assets/glitch_divider.svg" alt="Glitch Divider" style="width: 100%;">
