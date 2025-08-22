@@ -95,7 +95,6 @@ P05_DEPLOY :: Lançamento.
 <div align="center">
   <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=7" alt="Glitch Divider"/>
 </div>
-<br><br><br><br><br><br>
 <details>
 <summary></summary>
 Não há nada mais aqui.
