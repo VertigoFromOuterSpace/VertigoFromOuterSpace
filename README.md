@@ -63,6 +63,7 @@ HEX	PROJECT / DESCRIÇÃO	STACK
 <div align="right">
   dump all files ❯
 </div>
+<br>
 
 ``` diff
 - > ROOT ACCESS: PROJECT_CYBERDECK
