@@ -1,36 +1,48 @@
-## Estudando e protegendo.🛡️
+<h1 align="center">⚡ CYBERSPACE LOG // VERTIGO ⚡</h1>
+<p align="center">"Estudando, explorando e defendendo o que importa." 🛡️</p>
 
-### Buscando conhecer de tudo um pouco, mas focando no que for necessário<br>
+---
+
+## 🔮 STATUS: Always Learning | Always Building
+
+### 🌐 Conhecimentos Atuais
 [![Meus conhecimentos](https://skillicons.dev/icons?i=js,html,css,aws,gamemakerstudio,git,github,redhat,php,py,robloxstudio,vscode&perline=6)](https://skillicons.dev)
 
-
-### Principais/atuais projetos
-🟩 > Feito. | 🟨 > Em progresso. | 🟥 > A fazer.
-
-- 🟩 Programa para gerar um relatório de chamados do Classecon. <strong>> Python</strong>
-- 🟩 Programa para calcular a dose máxima anestésica bucal. <strong>> Python</strong>
-- 🟩 Site de controle de ponto para empresas.
-- 🟩 Programa para calcular a porcentagem de dano Dark Souls 3. <strong>> Python</strong>
-- 🟩 Script em Python para tentar decodificar um código encriptado em Base64 retirado do Wireshark. <strong>> Python</strong>
-- 🟨 Script mais otimizado para realizar a negação de vida no jogo de Libras do Roblox.<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-- 🟨 Aplicativo de tarefas diárias.
-- 🟥 Mod para o Project Zomboid.
-- 🟥 Terminar de organizar o md do meu github pessoal.
-- 🟥 Fazer um site de ponta a ponta com PHP.
-- 🟥 Criar um script em Python para pegar meus códigos do vscode, transformá-los em markdown e enviar ao Obsidian (utilizar IA para comentar dentro do Obsidian).
-#### Se quiser ver mais, acesse [meus repositórios](https://github.com/VertigoFromOuterSpace?tab=repositories)
-
-### Meu maior projeto (previsto a conclusão para daqui 5 anos):
-https://github.com/VertigoFromOuterSpace/Cyberdeck
-  
-[^1]: Be safe!.
 ---
-### Como eu preparo e projeto meus softwares pessoais
 
-1. Primeira etapa sempre será a concepção da ideia.
-2. A partir disso eu começo a definir os principais requisitos e as regras de negócio do meu software.
-3. Então parto para o desenvolvimento. Gosto e prefiro o modelo de prototipagem, então é o que eu sigo.
-4. Faço protótipos e vou corrigindo de acordo com minhas necessidades. Primeiro a base com os principais requisitos já funcionando.
-5. Depois parto para a organização geral e o restante dos requisitos.
-6. Quando eu finalizo, testo tudo novamente e envio para o GitHub, onde sempre será de domínio público (a menos que especificado), já que todos meus projetos são para meu próprio estudo.
+## 📡 Projetos em Andamento
+🟩 > **Feito** | 🟨 > **Em Progresso** | 🟥 > **A Fazer**
 
+- 🟩 Relatório de chamados (Classecon) → <strong>Python</strong>  
+- 🟩 Calculadora de dose máxima anestésica bucal → <strong>Python</strong>  
+- 🟩 Site de controle de ponto para empresas  
+- 🟩 Calculadora de dano de Dark Souls 3 → <strong>Python</strong>  
+- 🟩 Script para decodificação Base64 de pacotes Wireshark → <strong>Python</strong>  
+- 🟨 Script otimizado de negação de vida (Roblox - Libras)  
+- 🟨 Aplicativo de tarefas diárias  
+- 🟥 Mod para **Project Zomboid**  
+- 🟥 Organizar o README principal do GitHub  
+- 🟥 Criar um site end-to-end com **PHP**  
+- 🟥 Script em **Python + IA** para exportar códigos do VSCode → Obsidian com comentários automáticos  
+
+🔗 **Mais projetos?** [Acesse meus repositórios](https://github.com/VertigoFromOuterSpace?tab=repositories)
+
+---
+
+## 🧠 Projeto Supremo (5 anos)
+> [CYBERDECK](https://github.com/VertigoFromOuterSpace/Cyberdeck)  
+⚠️ Objetivo de longa data. O núcleo de tudo.  
+
+---
+
+## 🛠️ Como eu crio meus softwares
+1. **Ideia** → tudo começa no conceito.  
+2. **Requisitos & Regras de Negócio** → defino o núcleo.  
+3. **Prototipagem** → evolução rápida, correção em tempo real.  
+4. **Base funcional** → primeiro o esqueleto vivo.  
+5. **Expansão & Organização** → dou forma, aplico mais requisitos.  
+6. **Teste Final + Upload** → tudo vai pro GitHub (público, exceto exceções).  
+
+---
+
+<p align="center"><i>「 Be Safe. Stay Sharp. Stay Cyberpunk. 」</i></p>
