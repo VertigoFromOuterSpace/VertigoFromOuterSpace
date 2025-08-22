@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg" alt="Glitch Divider"/>
-
 <div align="center">
   <pre>
 ░██   ░██                         ░██   ░██            
