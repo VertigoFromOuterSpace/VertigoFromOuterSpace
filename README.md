@@ -30,19 +30,20 @@ Diff
 Diff
 
 + > Loading log: /prj/e̶x̶e̶c̶u̶tion_queue.log C O R R U P T E D
-STATUS	DESCRIÇÃO	STACK
-0xFF	~~Relatório de Chamados (Classecon)~~	Python
-0xFF	Calculadora de Dose Máxima Anestésica	Python
-0xFF	Site de Controle de Ponto	HTML, CSS, JS
-0xFF	Calculadora de Dano (Dark Souls 3)	Python
-0xFF	Packet Decryption Tool (Base64/Wireshark)	Python
-0xCC	Script de Negação de Vida (Roblox - Libras)	Lua
-0xCC	Aplicativo de Tarefas Diárias	JavaScript
-0x00	Mod para Project Zomboid	Lua
-0x00	Website End-to-End	PHP
-0x00	[IA] Script Exportação VSCode → Obsidian (Auto-comment)	Python + AI
+Markdown
 
-Exportar para as Planilhas
+| STATUS | DESCRIÇÃO                                                   | STACK                    |
+|:------:|:------------------------------------------------------------|:-------------------------|
+| `0xFF` | ~~Relatório de Chamados (Classecon)~~                       | `Python`                 |
+| `0xFF` | Calculadora de Dose Máxima Anestésica                       | `Python`                 |
+| `0xFF` | Site de Controle de Ponto                                   | `HTML`, `CSS`, `JS`      |
+| `0xFF` | Calculadora de Dano (Dark Souls 3)                          | `Python`                 |
+| `0xFF` | Packet Decryption Tool (Base64/Wireshark)                   | `Python`                 |
+| `0xCC` | Script de Negação de Vida (Roblox - Libras)                 | `Lua`                    |
+| `0xCC` | Aplicativo de Tarefas Diárias                               | `JavaScript`             |
+| `0x00` | Mod para Project Zomboid                                    | `Lua`                    |
+| `0x00` | Website End-to-End                                          | `PHP`                    |
+| `0x00` | **[IA]** Script Exportação VSCode → Obsidian (Auto-comment) | `Python` + `AI`          |
 <p align="right">
 <a href="https://github.com/VertigoFromOuterSpace?tab=repositories">dump all files ❯</a>
 </p>
@@ -77,12 +78,11 @@ Diff
 <br>
 
 <div align="center">
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=1" alt="Glitch Divider"/>
+<img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=1" alt="Glitch Divider"/>
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=VertigoFromOuterSpace&show_icons=true&theme=gotham&icon_color=00ff7f&text_color=00ff7f&bg_color=0d1117&border_color=00ff7f" alt="Estatísticas do GitHub">
 </div>
 <div align="center">
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=1" alt="Glitch Divider"/>
+<img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=1" alt="Glitch Divider"/>
 </div>
-
