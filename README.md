@@ -4,16 +4,23 @@
 
 <div align="center">
   <pre>
-    [vertigo@desktop ~]$ neofetch
+[vertigo@desktop ~]$ neofetch
 
-  :::      .::..,:::::: :::::::.. :::::::::::::::  .,-:::::/      ...      vertigo@PC
-';;,   ,;;;' ;;;;'''' ;;;;``;;;;;;;;;;;;'''';;;,;;-'````'    .;;;;;;;.     -----------
- \[[  .[[/    [[cccc   [[[,/[[['     [[     [[[[[[   [[[[[[/,[[     \[[,   OS: Human/Linux Hybrid
-  Y$c.$$"     $$""""   $$$$$$c       $$     $$$"$$c.    "$$ $$$,     $$$   Apelido: Vertigo
-   Y88P       888oo,__ 888b "88bo,   88,    888 `Y8bo,,,o88o"888,_ _,88P   Foco: Cibersegurança e inteligência artificial
-    MP        """"YUMMMMMMM   "W"    MMM    MMM   `'YMUP"YMM  "YMMMMMP"    Habilidades: Python, WebDevelopment, XSS, PromptInjection
-    
-                                                                             ████████████████████████████
+:::.        -@          .:::      vertigo@PC
+::.         #@          ..::      -----------
+::.     =@@@@@=--        .::      OS: Human/Linux Hybrid
+::.    *@@@@@@@@@%        ::      Apelido: Vertigo
+::.    #@@@@@@@@@@.       .:      Foco: Cibersegurança e inteligência artificial MP
+::      %@@@@@@@@@.        :      Habilidades: Python, WebDevelopment, XSS, PromptInjection
+::.     ::-+@@@%..         .
+:.      %@@@@@@ %@-        .
+:.       %@@@@@ :@:         
+:.        =@@@@%@=          
+..         .@@++=                 ████████████████████████████████████████
+::           -*=            
+:.                          
+.:.                         
+ ..          ...            
 
 [vertigo@desktop ~]$ █
   </pre>
