@@ -29,7 +29,7 @@
 
 ---
 
-##  Projeto Supremo (5 anos)
+##  Meu sonho de projeto (5 anos)
 > [CYBERDECK](https://github.com/VertigoFromOuterSpace/Cyberdeck)  
 ⚠️ Objetivo de longa data. O núcleo de tudo.  
 
