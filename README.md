@@ -96,5 +96,20 @@ P05_DEPLOY :: Lançamento.
   <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=7" alt="Glitch Divider"/>
 </div>
 <br><br><br><br><br><br>
-###  Testando
+
+### Testando ```
+
+**Vamos detalhar:**
+
+1.  `### Testando`: Esta parte é o seu título visível. Ele vai aparecer normalmente.
+2.  ``: Esta é a parte invisível. Ela está no código, mas não aparecerá na página.
+
+### Exemplo Completo para Você Copiar e Colar
+
+Para ter certeza de que funciona, por favor, **copie o bloco abaixo e cole-o diretamente em um comentário ou arquivo `.md` no GitHub**:
+
+```markdown
+### Testando o recurso de texto invisível
+
+Esta é uma demonstração.Tente selecionar o espaço em branco logo depois da palavra "demonstração.".
 
