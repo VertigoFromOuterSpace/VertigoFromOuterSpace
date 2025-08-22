@@ -1,5 +1,7 @@
+<img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg" alt="Glitch Divider"/>
+
 <div align="center">
-<pre>
+  <pre>
 ░██   ░██                         ░██   ░██            
 ░██   ░██                         ░██                  
 ░██   ░██  ░███████  ░██░████ ░████████ ░██ ░████████  
@@ -7,9 +9,9 @@
  ░██  ░██  ░█████████ ░██        ░██   ░██ ░██░██   ░██  
   ░██░██   ░██       ░██        ░██   ░██ ░██░██  ░███  
    ░███     ░███████  ░██         ░████ ░██ ░█████░██   
-                                             ░██     
-                                          ░███████                                                                  
-</pre>
+                                               ░██     
+                                            ░███████                                                                  
+  </pre>
 </div>
 
 > `> CONNECTION ESTABLISHED... ANALYZING SOURCE... █`
@@ -18,9 +20,9 @@
 
 ### `> Running scan: core_modules.list`
 <p align="center">
-  <img src="[https://skillicons.dev/icons?i=py,js,php,html,css&perline=5&theme=dark](https://skillicons.dev/icons?i=py,js,php,html,css&perline=5&theme=dark)" alt="Linguagens" loading="lazy"><br>
-  <img src="[https://skillicons.dev/icons?i=aws,redhat,git,github,vscode,obsidian&perline=6&theme=dark](https://skillicons.dev/icons?i=aws,redhat,git,github,vscode,obsidian&perline=6&theme=dark)" alt="Infra & Tools" loading="lazy"><br>
-  <img src="[https://skillicons.dev/icons?i=gamemakerstudio,robloxstudio&perline=7&theme=dark](https://skillicons.dev/icons?i=gamemakerstudio,robloxstudio&perline=7&theme=dark)" alt="Game Dev" loading="lazy">
+  <img src="https://skillicons.dev/icons?i=py,js,php,html,css&perline=5&theme=dark" alt="Linguagens"><br>
+  <img src="https://skillicons.dev/icons?i=aws,redhat,git,github,vscode,obsidian&perline=6&theme=dark" alt="Infra & Tools"><br>
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio,robloxstudio&perline=7&theme=dark" alt="Game Dev">
 </p>
 
 ---
@@ -38,10 +40,10 @@
 | `0xCC` | Aplicativo de Tarefas Diárias                               | `JavaScript`             |
 | `0x00` | Mod para Project Zomboid                                    | `Lua`                    |
 | `0x00` | Website End-to-End                                          | `PHP`                    |
-| `0x00` | **\[IA]** Script Exportação VSCode → Obsidian (Auto-comment) | `Python` + `AI`          |
+| `0x00` | **[IA]** Script Exportação VSCode → Obsidian (Auto-comment) | `Python` + `AI`          |
 
 <p align="right">
-  <a href="[https://github.com/VertigoFromOuterSpace?tab=repositories](https://github.com/VertigoFromOuterSpace?tab=repositories)">dump all files ❯</a>
+  <a href="https://github.com/VertigoFromOuterSpace?tab=repositories">dump all files ❯</a>
 </p>
 
 ---
@@ -68,15 +70,16 @@
 ---
 
 ### `> tail -f /var/log/system.log`
+
 <div align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=00FF7F&center=true&vCenter=true&width=550&lines=USER%3A+V̵e̷r̵t̴i̷g̸o̵;AUTH_STATUS%3A+ROOT_ACCESS;INITIATING+OVERRIDE...;TARGET%3A+C̸Y̸B̸E̶R̸D̷E̴C̷K̸.sh;SYSTEM_MESSAGE%3A+S̶t̸a̷y̷+̴s̴h̶a̷r̴p̷." alt="Animação de Terminal Corrompida" loading="lazy" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=00FF7F&center=true&vCenter=true&width=550&lines=USER%3A+Vertigo;AUTH_STATUS%3A+ROOT_ACCESS;INITIATING+OVERRIDE...;TARGET%3A+CYBERDECK.sh;SYSTEM_MESSAGE%3A+Stay+sharp." alt="Animação de Terminal" />
+  </a>
 </div>
 <br>
 
-<img src=".assets/glitch_divider.svg" alt="Glitch Divider" style="width: 100%;">
+<img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg" alt="Glitch Divider"/>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VertigoFromOuterSpace&show_icons=true&theme=gotham&icon_color=00ff7f&text_color=00ff7f&bg_color=0d1117&border_color=00ff7f" alt="Estatísticas do GitHub" loading="lazy">
+  <img src="https://github-readme-stats.vercel.app/api?username=VertigoFromOuterSpace&show_icons=true&theme=gotham&icon_color=00ff7f&text_color=00ff7f&bg_color=0d1117&border_color=00ff7f" alt="Estatísticas do GitHub">
 </p>
-<img src=".assets/glitch_divider.svg" alt="Glitch Divider" style="width: 100%;">
+<img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg" alt="Glitch Divider"/>
