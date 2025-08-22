@@ -20,7 +20,7 @@
   7                             
 
 ```
-[vertigo@desktop ~]$ █
+[vertigo@desktop ~]$ SimpleNeuralNetwork.py
 
 ```
 
