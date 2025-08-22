@@ -38,8 +38,8 @@ Diff
 | `0x00` | Mod para Project Zomboid                                    | `Lua`                    |
 | `0x00` | Website End-to-End                                          | `PHP`                    |
 | `0x00` | **[IA]** Script Exportação VSCode → Obsidian (Auto-comment) | `Python` + `AI`          |
-
-@@<a href="https://github.com/VertigoFromOuterSpace?tab=repositories">dump all files ❯</a>
+```
+<a href="https://github.com/VertigoFromOuterSpace?tab=repositories">dump all files ❯</a>
 </p>
 
 
@@ -50,6 +50,7 @@ O epicentro. Interface física e digital para a infosfera. Anos de pesquisa, có
 >> INJECT PAYLOAD <<
 <details>
 <summary><code>> Decompiling author_protocol.bin...</code></summary>
+```diff
 <br>
 <ol>
 <li><b>P01_CONCEPT</b> :: Geração do espectro inicial.</li>
@@ -59,7 +60,7 @@ O epicentro. Interface física e digital para a infosfera. Anos de pesquisa, có
 <li><b>P05_DEPLOY</b> :: Teste de estresse final e liberação na rede.</li>
 </ol>
 </details>
-
+```
 Diff
 
 + > tail -f /var/log/system.log
