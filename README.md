@@ -1,81 +1,99 @@
 <div align="center">
-  <br/>
+<img src="https://i.imgur.com/LOKV4b8.gif" alt="Cyberpunk Header" width="100%"/>
+</div>
+
+<div align="center">
   <pre>
- __      __       _   _             
- \ \    / /      | | (_)            
-  \ \  / /__ _ __| |_ _  __ _  ___  
-   \ \/ / _ \ '__| __| |/ _` |/ _ \ 
-    \  /  __/ |  | |_| | (_| | (_) |
-     \/ \___|_|   \__|_|\__, |\___/ 
-                         __/ |      
-                        |___/       
-</pre>
-  <h1>CYBERSPACE LOG</h1>
-  <p>"Estudando, explorando e defendendo o que importa." 🛡️</p>
+ __      __   _   _             
+ \ \    / /  | | (_)            
+  \ \  / /__ | |_ _  ___  _ __  
+   \ \/ / _ \| __| |/ _ \| '_ \ 
+    \  / (_) | |_| | (_) | | | |
+     \/ \___/ \__|_|\___/|_| |_|
+  </pre>
+  <h1>[ NETRUNNER INTERFACE ]</h1>
+  <p><i>Navegando pelos circuitos da cibersegurança e forjando inteligência artificial nas sombras do código.</i> 🛡️</p>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VertigoFromOuterSpace&label=PROFILE%20SCANS&color=00ff7f&style=flat-square" alt="Contador de Visitas" />
+  <img src="https://img.shields.io/github/followers/VertigoFromOuterSpace?label=FOLLOWERS&style=flat-square&color=00ff7f&logo=github" alt="Seguidores"/>
 </div>
 
 ---
 
-### 🛠️ // Tech Stack
+### `[TECH_ARSENAL] // Ferramentas do Ofício`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,aws,git,github,vscode&perline=7" alt="Web & Ferramentas"><br>
-  <img src="https://skillicons.dev/icons?i=py,php,redhat&perline=7" alt="Backend & Infra"><br>
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio,robloxstudio&perline=7" alt="Game Dev">
+  <img src="https://skillicons.dev/icons?i=py,js,php,html,css&perline=5&theme=dark" alt="Linguagens de Programação"><br>
+  <img src="https://skillicons.dev/icons?i=aws,redhat,git,github,vscode,obsidian&perline=6&theme=dark" alt="Infra, Ferramentas & DevOps"><br>
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio,robloxstudio&perline=7&theme=dark" alt="Game Development Engines">
 </p>
 
 ---
 
-### 🗂️ // Projetos em Andamento
-> 🟩 **Feito** | 🟨 **Em Progresso** | 🟥 **A Fazer**
+### `[ACTIVE_BOUNTIES] // Missões em Andamento`
 
-- 🟩 Relatório de chamados (Classecon) → **Python**
-- 🟩 Calculadora de dose máxima anestésica bucal → **Python**
-- 🟩 Site de controle de ponto para empresas
-- 🟩 Calculadora de dano de Dark Souls 3 → **Python**
-- 🟩 Script para decodificação Base64 de pacotes Wireshark → **Python**
-- 🟨 Script otimizado de negação de vida (Roblox - Libras)
-- 🟨 Aplicativo de tarefas diárias
-- 🟥 Mod para **Project Zomboid**
-- 🟥 Organizar o README principal do GitHub
-- 🟥 Criar um site end-to-end com **PHP**
-- 🟥 Script em **Python + IA** para exportar códigos do VSCode → Obsidian com comentários automáticos
+> **[LEGEND]** 🟩 **CONCLUÍDO** | 🟨 **EM PROGRESSO** | 🟥 **NA FILA DE EXECUÇÃO**
+
+| STATUS | PROJETO                                                     | TECNOLOGIA PRINCIPAL     |
+|:------:|-------------------------------------------------------------|--------------------------|
+|   🟩   | Relatório de Chamados (Classecon)                           | `Python`                 |
+|   🟩   | Calculadora de Dose Máxima Anestésica                       | `Python`                 |
+|   🟩   | Site de Controle de Ponto                                   | `HTML`, `CSS`, `JS`      |
+|   🟩   | Calculadora de Dano (Dark Souls 3)                          | `Python`                 |
+|   🟩   | Packet Decryption Tool (Base64/Wireshark)                   | `Python`                 |
+|   🟨   | Script de Negação de Vida (Roblox - Libras)                 | `Lua`                    |
+|   🟨   | Aplicativo de Tarefas Diárias                               | `JavaScript`             |
+|   🟥   | Mod para Project Zomboid                                    | `Lua`                    |
+|   🟥   | Organizar o README principal do GitHub                      | `Markdown`               |
+|   🟥   | Website End-to-End                                          | `PHP`                    |
+|   🟥   | **[IA]** Script de Exportação VSCode → Obsidian com Comentários | `Python` + `AI`          |
 
 <p align="right">
-  <a href="https://github.com/VertigoFromOuterSpace?tab=repositories">Ver todos os repositórios ❯</a>
+  <a href="https://github.com/VertigoFromOuterSpace?tab=repositories">Acessar todos os arquivos ❯</a>
 </p>
 
 ---
 
-### 🚀 // Meu Projeto de Longo Prazo (5 Anos)
-> ### [CYBERDECK](https://github.com/VertigoFromOuterSpace/Cyberdeck)
-> ⚠️ O núcleo de tudo. A materialização de anos de estudo e paixão.
+### `🚀 // [PROJECT_CYBERDECK] // O Legado`
+
+> ### [>> ACESSAR DATACÓDIGO <<](https://github.com/VertigoFromOuterSpace/Cyberdeck)
+> ⚠️ O epicentro da minha jornada. Um cyberdeck físico e digital, a interface definitiva para navegar na infosfera. Anos de pesquisa, código e cromo culminando em uma única obra.
 
 ---
 
 <details>
-  <summary>💻 // Como eu crio meus softwares</summary>
-  
-  1. **Ideia** → Tudo começa no conceito.
-  2. **Requisitos & Regras de Negócio** → Defino o núcleo.
-  3. **Prototipagem** → Evolução rápida, correção em tempo real.
-  4. **Base funcional** → Primeiro o esqueleto vivo.
-  5. **Expansão & Organização** → Dou forma, aplico mais requisitos.
-  6. **Teste Final + Upload** → Tudo vai pro GitHub (público, exceto exceções).
+  <summary><code>[CONSTRUCTION_PROTOCOL] // Meu Processo de Desenvolvimento</code></summary>
+  <br>
+  <ol>
+    <li><b>[GHOST]</b> :: A Concepção da Ideia.</li>
+    <li><b>[BLUEPRINT]</b> :: Definindo os Parâmetros e a Lógica do Núcleo.</li>
+    <li><b>[PROTOTYPE]</b> :: Wireframing e Testes de Incursão Iniciais.</li>
+    <li><b>[SKELETON_CODE]</b> :: Construindo o Chassis Funcional.</li>
+    <li><b>[AUGMENTATION]</b> :: Integrando Módulos e Refinando a Arquitetura.</li>
+    <li><b>[DEPLOYMENT]</b> :: Teste de Estresse Final e Lançamento na Rede.</li>
+  </ol>
 </details>
 
 ---
 
-### 📟 // TERMINAL LOG
+### `[SYSTEM_LOGS] // Conexão Ativa`
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=00FF7F&center=true&vCenter=true&width=550&lines=USER%3A+VertigoFromOuterSpace;STATUS%3A+ONLINE;LOADING+PROJECTS...;CURRENT_FOCUS%3A+CYBERDECK.sh;SYSTEM_MESSAGE%3A+Stay+sharp." alt="Animação de Terminal" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=00FF7F&center=true&vCenter=true&width=550&lines=USER%3A+VertigoFromOuterSpace;STATUS%3A+ONLINE;LOADING+DATABASES...;CURRENT_FOCUS%3A+PROJECT_CYBERDECK;SYSTEM_MESSAGE%3A+Stay+sharp." alt="Animação de Terminal" />
   </a>
 </div>
 
+<br>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VertigoFromOuterSpace&label=Profile%20views&color=0e75b6&style=flat" alt="Contador de Visitas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VertigoFromOuterSpace&show_icons=true&theme=gotham&icon_color=00ff7f&text_color=00ff7f&bg_color=0d1117&border_color=00ff7f" alt="Estatísticas do GitHub">
 </p>
 
-<p align="center"><i>「 Be Safe. Stay Sharp. Stay Cyberpunk. 」</i></p>
+<br>
+
+<div align="center">
+  <p><i>「 Be Safe. Stay Sharp. Stay Cyberpunk. 」</i></p>
+</div>
