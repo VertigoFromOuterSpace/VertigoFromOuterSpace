@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://tenor.com/pt-BR/view/cyberpunk-blackwall-gif-25998936">
+<img src="https://media1.tenor.com/m/E-0EGJ51mz4AAAAd/cyberpunk-blackwall.gif" alt="Cyberpunk Blackwall Header" width="100%"/>
 </div>
 
 <div align="center">
