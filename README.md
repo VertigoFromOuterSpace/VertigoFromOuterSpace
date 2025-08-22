@@ -24,10 +24,8 @@ Diff
 <img src="https://skillicons.dev/icons?i=gamemakerstudio,robloxstudio&perline=7&theme=dark" alt="Game Dev">
 </p>
 
-Diff
+- > Loading log: /prj/e̶x̶e̶c̶u̶tion_queue.log C O R R U P T E D
 
-+ > Loading log: /prj/e̶x̶e̶c̶u̶tion_queue.log C O R R U P T E D
-Markdown
 
 | STATUS | DESCRIÇÃO                                                   | STACK                    |
 |:------:|:------------------------------------------------------------|:-------------------------|
