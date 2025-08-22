@@ -21,6 +21,7 @@
 [41m- 7                               
 [41m-   7                             
 
+
 ```
 ```ansi
 [vertigo@desktop ~]$ neofetch
@@ -32,7 +33,7 @@
 [41m- 777      3999999994       77[0m            [41mFoco: Cibersegurança e inteligência artificial[0m
 [41m- 77      399999999927      7[0m             [41mHabilidades: Python, WebDevelopment, XSS, PromptInjection[0m
 [41m- 77       73699999957      7[0m
-[41m- 77        777 15943[0m                     [41m                           [0m
+[41m- 77        777 15943[0m                     [41m████████████████████████████████████████[0m
 [41m- 77      35556494 152[0m
 [41m- 77        3499995 65[0m
 [41m- 7      7499993347[0m
@@ -41,6 +42,8 @@
 [41m- 77[0m
 [41m- 7[0m
 [41m- 7[0m
+
+
 
 ```
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&size=14&color=FFFFFF&vCenter=true&width=250&lines=[vertigo@desktop+~]$)
