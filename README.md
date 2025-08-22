@@ -93,6 +93,5 @@ P05_DEPLOY :: Lançamento.
 [2025-08-22 10:08:37] [WARN] - Nível de Ameaça........: MODERADO
 [2025-08-22 10:08:37] [INFO] - Todos os sistemas operacionais. Verificação concluída.
 
-# "A mente é como um paraquedas. Só funciona se estiver aberta."
 ```
 
