@@ -53,29 +53,75 @@ P05_DEPLOY :: Lançamento.
 
 
 <!-- DIVIDER_START -->
+**🎮 WAVES STYLE ACTIVE**
 ```
- \ |  -~\ ~/_ /\~~/ /\ /^\ / -\-/_  | -| _ /_ \ \/   -\/-   \ / |\~|-
-\^ / \// -/^/|_ /_\~\//  | ~\\//~/ _^\| ~^~_ \/ - ^-- \ /   -  \\ ~
-^  \ -  ~\_-_\|-_ \~/_^ |\- |/  |/\/ _   _ - |\ \__^  \\  /^/\ |_   
-/-_~\/^-\^ -/ -_|\ \_-|\|_\ ^/ ~\_/ _ \\\  /\  ~|-__  -|~\/~//\/\ ^
-/ |/ -- _\//^^_ //_\ _/_ / |- ^_-|-|\/-/  /^_ / _ _ /-\/   \ | /\_~ 
-/__/_ \  \/___|^ |~\/ \ ^_/ /   /  /^\/-| \^^/\ | |-  -\_/-  | |_~\
+~ v ^^~^- ~-vv~~^~^-v~--v^v~~^_ ^-v-~-^^_ ~v~_~^~v^~^~~~^ vv~ ~v^^ ~ ~
+~^_v^~  -~-~-^v_v^v^v-~v-^-_^v^v-~~-~~-^~v-^v~_~^~^v^ ~~--^-^~~-^^^v~-
+~v__-^^^~~^^ ^~~~~ ~ ~-~ _^~v~^ _ ^_~^~ v ~^~v-v^vvv-_-~ -v^- -v~_~ ~-
+~ ~ ^v~v^ -~-^-~ --__^-v ~~~~~-^_~ ~-~^v~v~^^~-_~~v-v^~~-^v~_^^-v^^-~-
+^^v_~^v-^~~~v ^-~^-^_v~-^-^~~- _-_ ~v~^^~--v~^~~ -~^v~^v_ -vv~^- --^^v
+_vv~v^vv~-- -~^~_~~^-v~^_-~_^_^^~~~~v^v-^^~v~^__^^ v~v_~-~^-~-v v^_~^v
 ```
 <!-- DIVIDER_END -->
 
 <!-- SCANNER_START -->
+**📡 SYSTEM SCAN RESULTS**
 ```
-[2025-08-22 08:30:24] [>] CYBERDECK :: SCAN ENGINE v0.7 <]>
+[2025-08-22 08:39:01] [>] CYBERDECK :: SCAN ENGINE v0.7 <]>
 Initializing kernel modules....[OK]
 Loading system drivers.........[OK]
 Checking hardware integrity....[OK]
 Validating memory banks........[WARN]
-Testing network interfaces.....[OK]
-Mounting file systems..........[WARN]
+Testing network interfaces.....[WARN]
+Mounting file systems..........[OK]
 Starting background services...[OK]
 
  > SCAN COMPLETE [SYSTEM] - all systems nominally
 ```
 <!-- SCANNER_END -->
 
-<!-- LAST_UPDATE -->Last updated: 2025-08-22 08:30:24<!-- /LAST_UPDATE -->
+<!-- LAST_UPDATE -->🕒 Last updated: 2025-08-22 08:39:01 | Style: waves | Scan: system<!-- /LAST_UPDATE -->
+
+<!-- STATUS_START -->
+**⚡ REAL-TIME STATUS**
+```
+╔══════════════════════════════════════╗
+║        CYBERDECK STATUS BOARD        ║
+╠══════════════════════════════════════╣
+
+║ DATA STREAM  : ENCRYPTED  ║
+║ ENCRYPTION   : RSA-4096   ║
+║ NEURAL LINK  : STABLE     ║
+╠══════════════════════════════════════╣
+║ UPTIME: 08:39:01        UTC: 22/08 ║
+║ QUOTE: "There is no spoon        " ║
+╚══════════════════════════════════════╝
+```
+<!-- STATUS_END -->
+
+<!-- BADGES_START -->
+![Status](https://img.shields.io/badge/Status-Morning_Hack-brightgreen?style=for-the-badge&logo=hackaday)
+![Commits](https://img.shields.io/badge/Commits-737-blue?style=for-the-badge&logo=git)
+![Last_Update](https://img.shields.io/badge/Last_Update-08:39:01-purple?style=for-the-badge&logo=clockify)
+<!-- BADGES_END -->
+
+<!-- SVG_START -->
+**🎨 LIVE CYBERDECK VISUAL**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/cyber_glitch.svg" alt="Cyber Glitch Animation"/>
+</div>
+
+**📊 SYSTEM METRICS**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/progress_cpu_load.svg" alt="CPU Load"/>
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/progress_mem_usage.svg" alt="Memory Usage"/>
+</div>
+
+**🔐 STATUS BADGE**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/status_badge.svg" alt="Status Badge"/>
+</div>
+<!-- SVG_END -->

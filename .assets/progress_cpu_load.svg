@@ -1,0 +1,16 @@
+<svg width="300" height="60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0a0a0a" rx="3"/>
+  
+  <text x="10" y="20" font-family="Courier, monospace" font-size="12" fill="#00ffff">
+    CPU LOAD
+  </text>
+  
+  <rect x="10" y="25" width="280" height="10" fill="#333" rx="2"/>
+  <rect x="10" y="25" width="142.79999999999998" height="10" fill="#ffff00" rx="2">
+    <animate attributeName="width" values="0;142.79999999999998" dur="2s" fill="freeze"/>
+  </rect>
+  
+  <text x="10" y="50" font-family="Courier, monospace" font-size="10" fill="#ffff00">
+    51%
+  </text>
+</svg>
