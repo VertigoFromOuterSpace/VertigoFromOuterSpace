@@ -1,12 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=4" alt="Glitch Divider"/>
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/animated_header.svg" alt="Animated Header"/>
-</div>
-
-
 <div align="center">
   <pre>
 echo  ╔═══════════════════════════════════════════════════════════════╗
@@ -19,6 +13,10 @@ echo  ║    ╚═══╝  ╚══════╝╚═╝  ╚═╝   ╚
 echo  ╚═══════════════════════════════════════════════════════════════╝
   </pre>
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/animated_header.svg" alt="Animated Header"/>
+</div>
+
 
 ```diff
 + > CONNECTION ESTABLISHED... ANALYZING SOURCE... █
