@@ -50,3 +50,32 @@ P04_AUGMENT :: Testes contínuos.
 P05_DEPLOY :: Lançamento.
 
 <details> <summary><code>> Decompiling author_protocol.bin...</code></summary> <HTML-ish payload preview> ```xml <phase id="P03_PROTOTYPE"> <module name="scan_engine" lang="py">active</module> <module name="exporter" lang="py">idle</module> </phase> ``` </details>
+
+
+<!-- DIVIDER_START -->
+```
+ \ |  -~\ ~/_ /\~~/ /\ /^\ / -\-/_  | -| _ /_ \ \/   -\/-   \ / |\~|-
+\^ / \// -/^/|_ /_\~\//  | ~\\//~/ _^\| ~^~_ \/ - ^-- \ /   -  \\ ~
+^  \ -  ~\_-_\|-_ \~/_^ |\- |/  |/\/ _   _ - |\ \__^  \\  /^/\ |_   
+/-_~\/^-\^ -/ -_|\ \_-|\|_\ ^/ ~\_/ _ \\\  /\  ~|-__  -|~\/~//\/\ ^
+/ |/ -- _\//^^_ //_\ _/_ / |- ^_-|-|\/-/  /^_ / _ _ /-\/   \ | /\_~ 
+/__/_ \  \/___|^ |~\/ \ ^_/ /   /  /^\/-| \^^/\ | |-  -\_/-  | |_~\
+```
+<!-- DIVIDER_END -->
+
+<!-- SCANNER_START -->
+```
+[2025-08-22 08:30:24] [>] CYBERDECK :: SCAN ENGINE v0.7 <]>
+Initializing kernel modules....[OK]
+Loading system drivers.........[OK]
+Checking hardware integrity....[OK]
+Validating memory banks........[WARN]
+Testing network interfaces.....[OK]
+Mounting file systems..........[WARN]
+Starting background services...[OK]
+
+ > SCAN COMPLETE [SYSTEM] - all systems nominally
+```
+<!-- SCANNER_END -->
+
+<!-- LAST_UPDATE -->Last updated: 2025-08-22 08:30:24<!-- /LAST_UPDATE -->
