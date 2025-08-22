@@ -1,3 +1,1 @@
-![.assets/carbon.svg](https://github.com/VertigoFromOuterSpace/VertigoFromOuterSpace/blob/main/.assets/carbon.svg)
-
-
+![Neofetch gerado pelo Carbon](https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/carbon.svg)
