@@ -20,6 +20,8 @@
 - 🟥 Criar um script em Python para pegar meus códigos do vscode, transformá-los em markdown e enviar ao Obsidian (utilizar IA para comentar dentro do Obsidian).
 #### Se quiser ver mais, acesse [meus repositórios](https://github.com/VertigoFromOuterSpace?tab=repositories)
 
+### Meu maior projeto (previsto a conclusão para daqui 5 anos):
+https://github.com/VertigoFromOuterSpace/Cyberdeck
   
 [^1]: Be safe!.
 ---
