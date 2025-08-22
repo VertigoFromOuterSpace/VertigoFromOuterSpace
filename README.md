@@ -52,8 +52,8 @@ cat << "EOF"
 - > boot sequence: cyberdeck v3.14 (mancer mode)  [online]
 - > STATUS REPORT ( /sys/root )
 
-```
-```
+```diff
+
 VertigoFromOuterSpace
 -+------+-------------------------------------------------+--------------+
  | HEX  |               PROJECT / DESCRIÇÃO               |    STACK     |
