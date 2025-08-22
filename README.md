@@ -1,9 +1,4 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/d948f52d-adfe-43a2-a46a-01e985bbcaa3" alt="Cyberpunk Blackwall Header" width="100%"/>
-
-</div>
-
-<div align="center">
   <pre>
 ░██    ░██                        ░██    ░██                      
 ░██    ░██                        ░██                             
