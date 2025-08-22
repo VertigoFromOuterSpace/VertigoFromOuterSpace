@@ -45,7 +45,7 @@ cat << "EOF"
 <div align="center">
   <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=7" alt="Glitch Divider"/>
 </div>
-
+<br>
 ```diff
 
 - > boot sequence: cyberdeck v3.14 (mancer mode)  [online]
