@@ -1,2 +1,3 @@
-![neofetch](.assets/carbon.svg)
+![.assets/carbon.svg](https://github.com/VertigoFromOuterSpace/VertigoFromOuterSpace/blob/main/.assets/carbon.svg)
+
 
