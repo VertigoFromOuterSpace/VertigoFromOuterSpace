@@ -71,7 +71,6 @@ echo  | 0x00 | [IA] Exportador VSCode → Obsidian (auto-comment)| Python + AI  
 echo -+------+-------------------------------------------------+--------------+
 
 ```
-```diff
 <div align="right">
   dump all files<a href="https://github.com/VertigoFromOuterSpace?tab=repositories">  ❯ </a>
 </div>
