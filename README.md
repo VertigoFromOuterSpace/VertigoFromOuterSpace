@@ -96,9 +96,8 @@ P05_DEPLOY :: Lançamento.
   <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=7" alt="Glitch Divider"/>
 </div>
 <br><br><br><br><br><br>
-
-
-### Testando o recurso de texto invisível
-
-Esta é uma demonstração.Tente selecionar o espaço em branco logo depois da palavra "demonstração.".
+<details>
+<summary></summary>
+Não há nada mais aqui.
+</details>
 
