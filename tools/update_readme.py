@@ -140,25 +140,26 @@ def update_readme(readme_path="README.md"):
         # Gera novos SVGs a cada atualização
         from svg_generator import save_svg_files
         save_svg_files()
+        cache_bust = int(datetime.now().timestamp())
         
         svg_content = f"""
 **🎨 LIVE CYBERDECK VISUAL**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/cyber_glitch.svg" alt="Cyber Glitch Animation"/>
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/cyber_glitch.svg?v={cache_bust}" alt="Cyber Glitch Animation"/>
 </div>
 
 **📊 SYSTEM METRICS**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/progress_cpu_load.svg" alt="CPU Load"/>
-  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/progress_mem_usage.svg" alt="Memory Usage"/>
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/progress_cpu_load.svg?v={cache_bust}" alt="CPU Load"/>
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/progress_mem_usage.svg?v={cache_bust}" alt="Memory Usage"/>
 </div>
 
 **🔐 STATUS BADGE**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/status_badge.svg" alt="Status Badge"/>
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/status_badge.svg?v={cache_bust}" alt="Status Badge"/>
 </div>
 """
         

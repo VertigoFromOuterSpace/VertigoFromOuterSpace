@@ -1,68 +1,44 @@
 <svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="glitch">
-      <feColorMatrix type="matrix" values="1 0 0 0 0  0 0 0 0 0  0 0 1 0 0  0 0 0 1 0">
-        <animateTransform attributeName="values" 
-          values="1 0 0 0 0  0 0 0 0 0  0 0 1 0 0  0 0 0 1 0;
-                  1 0 0 0 0.1  0 0 0 0 0  0 0 1 0 0  0 0 0 1 0;
-                  1 0 0 0 0  0 0 0 0 0  0 0 1 0 0  0 0 0 1 0"
-          dur="0.3s" repeatCount="indefinite"/>
-      </feColorMatrix>
-    </filter>
-    
-    <filter id="staticNoise">
-      <feTurbulence baseFrequency="0.9" numOctaves="1" result="noise"/>
-      <feColorMatrix in="noise" type="saturate" values="0"/>
-      <feComponentTransfer result="monoNoise">
-        <feFuncA type="discrete" tableValues="0.2 0.4 0.6 0.8"/>
-      </feComponentTransfer>
-      <feBlend in="SourceGraphic" in2="monoNoise" mode="multiply"/>
-    </filter>
-  </defs>
-  
   <rect width="100%" height="100%" fill="#0a0a0a"/>
-  
-  <!-- Linhas de código glitchadas -->
-  <text x="20" y="25" font-family="Courier, monospace" font-size="14" fill="#00ffff" filter="url(#glitch)">
-    1){)])1|_-]{~|{{(0)>|0^>_11[~=0[(1+\}}{~{<\|}[/11)0<1~[)1~
-    <animate attributeName="opacity" values="1;0.7;1;0.9;1" dur="2s" repeatCount="indefinite"/>
+  <text x="20" y="25" font-family="monospace" font-size="14" fill="#ff0040">
+    C)B8{7A0+(B6[(D~41**D[}_/B^E6-|]-|5[0=+5_32_0^}|9}-/~+=72E5C)-|-(ACE
+    <animate attributeName="opacity" values="1;0.3;1;0.7;1" dur="1.5s" begin="0.0s" repeatCount="indefinite"/>
   </text>
-  <text x="20" y="47" font-family="Courier, monospace" font-size="14" fill="#ff8000" filter="url(#glitch)">
-    \>1-01|~>1+101)>\0}(0}=|-0){+++/}1]=0>[=0[1-)~<\(>0\[]0(
-    <animate attributeName="opacity" values="1;0.7;1;0.9;1" dur="2s" repeatCount="indefinite"/>
+  <text x="20" y="47" font-family="monospace" font-size="14" fill="#ff0040">
+    E1(15_|)70{{049F8{*/1B5=~~/=9[_4((}9=]/9/}--/]([3--03+F~|-3A+{|
+    <animate attributeName="opacity" values="1;0.3;1;0.7;1" dur="1.5s" begin="0.2s" repeatCount="indefinite"/>
   </text>
-  <text x="20" y="69" font-family="Courier, monospace" font-size="14" fill="#00ff00" filter="url(#glitch)">
-    (11/10)||~{>_1|1|]{1~+0|010|<1]<00|-01>00=_=110})|(/01)-}[~00|_+0^}1/
-    <animate attributeName="opacity" values="1;0.7;1;0.9;1" dur="2s" repeatCount="indefinite"/>
+  <text x="20" y="69" font-family="monospace" font-size="14" fill="#00ffff">
+    ^__-5A498-9_97857DBCE8E_|/^3(2F7E^)]6*={/C16(9}2_{[}|D_966[{
+    <animate attributeName="opacity" values="1;0.3;1;0.7;1" dur="1.5s" begin="0.4s" repeatCount="indefinite"/>
   </text>
-  <text x="20" y="91" font-family="Courier, monospace" font-size="14" fill="#ff0040" filter="url(#glitch)">
-    -=1/-0=+1}1<||/^0/~_-|[<1{^=]00-><|~(-=1/(_
-    <animate attributeName="opacity" values="1;0.7;1;0.9;1" dur="2s" repeatCount="indefinite"/>
+  <text x="20" y="91" font-family="monospace" font-size="14" fill="#00ffff">
+    B6E(=)A*3^7(8*~(11E-FD2*9^F|-*~51_A6}-F^/_{{C4^{5|}(1C=51B]
+    <animate attributeName="opacity" values="1;0.3;1;0.7;1" dur="1.5s" begin="0.6000000000000001s" repeatCount="indefinite"/>
   </text>
-  <text x="20" y="113" font-family="Courier, monospace" font-size="14" fill="#00ffff" filter="url(#glitch)">
-    [|+_{}0011\={_10|+)}|}(_10_00>01|1<<)~|}{{0</0<~~1{=[
-    <animate attributeName="opacity" values="1;0.7;1;0.9;1" dur="2s" repeatCount="indefinite"/>
+  <text x="20" y="113" font-family="monospace" font-size="14" fill="#00ff00">
+    5[9~A6{(C=114/0/=1_0_|9+F[-)3FF3D{=9=/2_-*[+5C9*_)*}8F{{7+{
+    <animate attributeName="opacity" values="1;0.3;1;0.7;1" dur="1.5s" begin="0.8s" repeatCount="indefinite"/>
   </text>
-  <text x="20" y="135" font-family="Courier, monospace" font-size="14" fill="#ff8000" filter="url(#glitch)">
-    \]/|/0{0)>0(^+11/(/01-0{~1<~/0(-)(1\](}[1-1}{_/0(\0|10~
-    <animate attributeName="opacity" values="1;0.7;1;0.9;1" dur="2s" repeatCount="indefinite"/>
+  <text x="20" y="135" font-family="monospace" font-size="14" fill="#ffff00">
+    [0D=0686[]3_C=-C77//4EC37(|9+6=A|}D(6=}7
+    <animate attributeName="opacity" values="1;0.3;1;0.7;1" dur="1.5s" begin="1.0s" repeatCount="indefinite"/>
   </text>
-  <text x="20" y="157" font-family="Courier, monospace" font-size="14" fill="#ffff00" filter="url(#glitch)">
-    10[_0[[))=]/~^1)-_{110_]1|^+01<)0=-{=~001/)/+1)|]0=
-    <animate attributeName="opacity" values="1;0.7;1;0.9;1" dur="2s" repeatCount="indefinite"/>
+  <text x="20" y="157" font-family="monospace" font-size="14" fill="#ffff00">
+    |8+119{B_BC~6F7302~75]8AFCC^~^1]1|DA]_|DD)
+    <animate attributeName="opacity" values="1;0.3;1;0.7;1" dur="1.5s" begin="1.2000000000000002s" repeatCount="indefinite"/>
   </text>
-  <text x="20" y="179" font-family="Courier, monospace" font-size="14" fill="#00ff00" filter="url(#glitch)">
-    ]11<-0]~/+_(\||1]]^}(0/0(}\1100/_=+)|[1=)-)0>01[
-    <animate attributeName="opacity" values="1;0.7;1;0.9;1" dur="2s" repeatCount="indefinite"/>
+  <text x="20" y="179" font-family="monospace" font-size="14" fill="#00ffff">
+    8^{[^(6_2]5_6^}5D5_/--6F|A=F0DA}+8F294|[+1=A[EDB)AA3)-A{-B*|/A9=5E9=
+    <animate attributeName="opacity" values="1;0.3;1;0.7;1" dur="1.5s" begin="1.4000000000000001s" repeatCount="indefinite"/>
   </text>
   
-  <!-- Scan line -->
-  <rect width="100%" height="2" fill="#00ff00" opacity="0.6">
-    <animateTransform attributeName="transform" type="translate" 
-      values="0,-10; 0,200; 0,-10" dur="3s" repeatCount="indefinite"/>
+  <rect x="0" y="0" width="100%" height="2" fill="#00ff00" opacity="0.8">
+    <animate attributeName="y" values="0;198;0" dur="3s" repeatCount="indefinite"/>
   </rect>
   
-  <!-- Static overlay -->
-  <rect width="100%" height="100%" fill="url(#staticPattern)" opacity="0.1" filter="url(#staticNoise)"/>
+  <rect x="0" y="100" width="100%" height="1" fill="#ff0040" opacity="0.5">
+    <animate attributeName="opacity" values="0;1;0" dur="0.5s" repeatCount="indefinite"/>
+  </rect>
   
 </svg>

@@ -1,23 +1,16 @@
 <svg width="200" height="80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1a1a1a;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2a2a2a;stop-opacity:1" />
-    </linearGradient>
-  </defs>
+  <rect width="100%" height="100%" fill="#1a1a1a" stroke="#00ff00" stroke-width="2" rx="5"/>
   
-  <rect width="100%" height="100%" fill="url(#bgGrad)" stroke="#ff6600" stroke-width="2" rx="5"/>
-  
-  <text x="100" y="25" text-anchor="middle" font-family="Courier, monospace" font-size="12" fill="#ff6600">
+  <text x="100" y="25" text-anchor="middle" font-family="monospace" font-size="12" fill="#00ff00">
     CYBERDECK
   </text>
   
-  <text x="100" y="45" text-anchor="middle" font-family="Courier, monospace" font-size="14" fill="#ff6600" font-weight="bold">
-    ENCRYPTED
+  <text x="100" y="45" text-anchor="middle" font-family="monospace" font-size="14" fill="#00ff00" font-weight="bold">
+    ONLINE
     <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
   </text>
   
-  <text x="100" y="65" text-anchor="middle" font-family="Courier, monospace" font-size="10" fill="#888">
-    08:39:01
+  <text x="100" y="65" text-anchor="middle" font-family="monospace" font-size="10" fill="#888">
+    08:55:29
   </text>
 </svg>

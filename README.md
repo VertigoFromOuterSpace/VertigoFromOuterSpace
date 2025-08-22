@@ -53,26 +53,26 @@ P05_DEPLOY :: Lançamento.
 
 
 <!-- DIVIDER_START -->
-**🎮 WAVES STYLE ACTIVE**
+**🎮 MATRIX STYLE ACTIVE**
 ```
-~ v ^^~^- ~-vv~~^~^-v~--v^v~~^_ ^-v-~-^^_ ~v~_~^~v^~^~~~^ vv~ ~v^^ ~ ~
-~^_v^~  -~-~-^v_v^v^v-~v-^-_^v^v-~~-~~-^~v-^v~_~^~^v^ ~~--^-^~~-^^^v~-
-~v__-^^^~~^^ ^~~~~ ~ ~-~ _^~v~^ _ ^_~^~ v ~^~v-v^vvv-_-~ -v^- -v~_~ ~-
-~ ~ ^v~v^ -~-^-~ --__^-v ~~~~~-^_~ ~-~^v~v~^^~-_~~v-v^~~-^v~_^^-v^^-~-
-^^v_~^v-^~~~v ^-~^-^_v~-^-^~~- _-_ ~v~^^~--v~^~~ -~^v~^v_ -vv~^- --^^v
-_vv~v^vv~-- -~^~_~~^-v~^_-~_^_^^~~~~v^v-^^~v~^__^^ v~v_~-~^-~-v v^_~^v
+ 110+ +010|1|- |000 11-  11 |+0  -1++|1     0-1 -1   1   -0- 0 1|10+  
+01 1- - ++ -0|   1++0 1|-0  | +1 010 11-+ 0++|0||0 11  ++  -0+|--- 1+|
+  1-10 |+- 1+ 10+110+1| +| 1   +1100|  -|1-0+1 1-01 00+ 01  1 +0 0++|-
+   -| 1 0 + 011- --++- + +|000 1+0 1-- ||-1|10 +0 |||- + 111 1++   10 
+00  1 1  01-|010| 11000 0000++0|000+ 0111|0|  000+ |1-++1|- - 1- 01- +
+0 |001+0-+-01-|0 +0 1  +- -  0||- 001++0  0 1+0+|111   +-  011| 1  -10
 ```
 <!-- DIVIDER_END -->
 
 <!-- SCANNER_START -->
 **📡 SYSTEM SCAN RESULTS**
 ```
-[2025-08-22 08:39:01] [>] CYBERDECK :: SCAN ENGINE v0.7 <]>
-Initializing kernel modules....[OK]
+[2025-08-22 08:55:29] [>] CYBERDECK :: SCAN ENGINE v0.7 <]>
+Initializing kernel modules....[ERR]
 Loading system drivers.........[OK]
 Checking hardware integrity....[OK]
-Validating memory banks........[WARN]
-Testing network interfaces.....[WARN]
+Validating memory banks........[OK]
+Testing network interfaces.....[OK]
 Mounting file systems..........[OK]
 Starting background services...[OK]
 
@@ -80,7 +80,7 @@ Starting background services...[OK]
 ```
 <!-- SCANNER_END -->
 
-<!-- LAST_UPDATE -->🕒 Last updated: 2025-08-22 08:39:01 | Style: waves | Scan: system<!-- /LAST_UPDATE -->
+<!-- LAST_UPDATE -->🕒 Last updated: 2025-08-22 08:55:29 | Style: matrix | Scan: system<!-- /LAST_UPDATE -->
 
 <!-- STATUS_START -->
 **⚡ REAL-TIME STATUS**
@@ -89,39 +89,39 @@ Starting background services...[OK]
 ║        CYBERDECK STATUS BOARD        ║
 ╠══════════════════════════════════════╣
 
-║ DATA STREAM  : ENCRYPTED  ║
-║ ENCRYPTION   : RSA-4096   ║
 ║ NEURAL LINK  : STABLE     ║
+║ ENCRYPTION   : QUANTUM    ║
+║ THREAT LEVEL : MEDIUM     ║
 ╠══════════════════════════════════════╣
-║ UPTIME: 08:39:01        UTC: 22/08 ║
-║ QUOTE: "There is no spoon        " ║
+║ UPTIME: 08:55:29        UTC: 22/08 ║
+║ QUOTE: "Follow the white rabbit  " ║
 ╚══════════════════════════════════════╝
 ```
 <!-- STATUS_END -->
 
 <!-- BADGES_START -->
 ![Status](https://img.shields.io/badge/Status-Morning_Hack-brightgreen?style=for-the-badge&logo=hackaday)
-![Commits](https://img.shields.io/badge/Commits-737-blue?style=for-the-badge&logo=git)
-![Last_Update](https://img.shields.io/badge/Last_Update-08:39:01-purple?style=for-the-badge&logo=clockify)
+![Commits](https://img.shields.io/badge/Commits-480-blue?style=for-the-badge&logo=git)
+![Last_Update](https://img.shields.io/badge/Last_Update-08:55:29-purple?style=for-the-badge&logo=clockify)
 <!-- BADGES_END -->
 
 <!-- SVG_START -->
 **🎨 LIVE CYBERDECK VISUAL**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/cyber_glitch.svg" alt="Cyber Glitch Animation"/>
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/cyber_glitch.svg?v=1755863729" alt="Cyber Glitch Animation"/>
 </div>
 
 **📊 SYSTEM METRICS**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/progress_cpu_load.svg" alt="CPU Load"/>
-  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/progress_mem_usage.svg" alt="Memory Usage"/>
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/progress_cpu_load.svg?v=1755863729" alt="CPU Load"/>
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/progress_mem_usage.svg?v=1755863729" alt="Memory Usage"/>
 </div>
 
 **🔐 STATUS BADGE**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/status_badge.svg" alt="Status Badge"/>
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/status_badge.svg?v=1755863729" alt="Status Badge"/>
 </div>
 <!-- SVG_END -->
