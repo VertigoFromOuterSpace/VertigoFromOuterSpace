@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg" alt="Glitch Divider"/>
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=1" alt="Glitch Divider"/>
 </div>
 
 <div align="center">
@@ -81,11 +81,11 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg" alt="Glitch Divider"/>
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=1" alt="Glitch Divider"/>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VertigoFromOuterSpace&show_icons=true&theme=gotham&icon_color=00ff7f&text_color=00ff7f&bg_color=0d1117&border_color=00ff7f" alt="Estatísticas do GitHub">
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg" alt="Glitch Divider"/>
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=1" alt="Glitch Divider"/>
 </div>
