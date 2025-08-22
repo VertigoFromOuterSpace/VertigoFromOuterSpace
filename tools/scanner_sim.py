@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-# scanner_sim.py — visual scan simulator for README demos
+# Visual scan simulator for README demos
 import sys, time, random
 
-BANNER = "[> CYBERDECK :: SCAN ENGINE v0.7 <]"
+BANNER = "[>] CYBERDECK :: SCAN ENGINE v0.7 <]>"
 LINES = [
     "Initializing modules",
-    "Loading core_modules.list",
+    "Loading core modules.list",
     "Decrypting payload header",
     "Checking integrity",
     "Mapping network nodes",
@@ -13,18 +13,42 @@ LINES = [
     "Finalizing"
 ]
 
-def rnd_dots():
-    return "." * random.randint(1,5)
+# Nova função para retornar a saída como texto
+def get_scan_output():
+    output = []
+    output.append(BANNER)
+    
+    max_len = max(len(line) for line in LINES)
+    
+    for line in LINES:
+        status = random.choice(["OK", "OK", "OK", "WARN", "ERR"])
+        padding = "." * (max_len - len(line) + 3)
+        output.append(f"{line}{padding}[{status}]")
+        
+    output.append("\n > SCAN COMPLETE - all systems nominally")
+    return "\n".join(output)
+
 
 def main():
-    print("\n" + BANNER + "\n")
-    for i, line in enumerate(LINES, 1):
-        sys.stdout.write(f" {i:02d} | {line}{rnd_dots():<6}")
+    """Função original para rodar no terminal, se quiser."""
+    print("+" + "-"* (len(BANNER)+2) + "+")
+    print("| " + BANNER + " |")
+    print("+" + "-"* (len(BANNER)+2) + "+")
+    
+    for i, line in enumerate(LINES):
+        sys.stdout.write(f"{line: <35}")
         sys.stdout.flush()
+        time.sleep(0.1)
+        for _ in range(random.randint(5, 15)):
+            sys.stdout.write('.')
+            sys.stdout.flush()
+            time.sleep(random.random()*0.1)
+
+        status = random.choice(["OK", "OK", "WARN", "ERR"])
+        print(f"[{status}]")
         time.sleep(0.45 + random.random()*0.3)
-        status = random.choice(["OK", "WARN", "ERR"])
-        print(f"  [{status}]")
-    print("\n > SCAN COMPLETE — all systems nominal\n")
+        
+    print("\n > SCAN COMPLETE - all systems nominally")
 
 if __name__ == "__main__":
-    main()
+    main() # Quando executado diretamente, roda a simulação visual

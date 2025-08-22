@@ -18,7 +18,10 @@
 + > boot sequence: cyberdeck v3.14 (mancer mode)  [online]
 <p align="center"> <img src="https://skillicons.dev/icons?i=py,js,php,html,css&perline=5&theme=dark" alt="Linguagens"><br> <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,obsidian&perline=6&theme=dark" alt="Infra & Tools"><br> <img src="https://skillicons.dev/icons?i=gamemakerstudio,robloxstudio&perline=7&theme=dark" alt="Game Dev"> </p>
 STATUS REPORT ( /sys/root )
-(o grimório — manifesto do projeto)
+
+# VertigoFromOuterSpace
+
+<p align="center"> ... (resto do seu README) ... </p>
 
 HEX	PROJECT / DESCRIÇÃO	STACK
 0xFF	Calculadora de Dose Máxima Anestésica	Python
