@@ -39,10 +39,9 @@ Diff
 | `0x00` | Website End-to-End                                          | `PHP`                    |
 | `0x00` | **[IA]** Script Exportação VSCode → Obsidian (Auto-comment) | `Python` + `AI`          |
 
-!<a href="https://github.com/VertigoFromOuterSpace?tab=repositories">dump all files ❯</a>
+@@<a href="https://github.com/VertigoFromOuterSpace?tab=repositories">dump all files ❯</a>
 </p>
 
-Diff
 
 + > Accessing root process: [PROJECT_CYBERDECK]
 [!WARNING]
