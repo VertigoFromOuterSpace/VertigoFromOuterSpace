@@ -1,1 +1,2 @@
-![neofetch](URL_DA_SUA_IMAGEM)
+![neofetch](.assets/carbon.svg)
+
