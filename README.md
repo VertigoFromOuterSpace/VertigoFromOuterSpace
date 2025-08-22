@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=4" alt="Glitch Divider"/>
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=5" alt="Glitch Divider"/>
 </div>
 <div align="center">
   <pre>
@@ -14,7 +14,7 @@ echo  ╚═══════════════════════�
   </pre>
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/animated_header.svg" alt="Animated Header"/>
+  <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/animated_header.svg?v=2" alt="Animated Header"/>
 </div>
 
 
