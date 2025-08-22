@@ -87,57 +87,18 @@ P05_DEPLOY :: Lançamento.
 ```diff
 XML
 
-<phase id="P03_PROTOTYPE">
-  <module name="scan_engine" lang="py">active</module>
-  <module name="exporter" lang="py">idle</module>
-</phase>
-</details>
-
-- > MATRIX STYLE ACTIVE
-
- 110+ +010|1|- |000 11-  11 |+0  -1++|1     0-1 -1   1   -0- 0 1|10+
-01 1- - ++ -0|   1++0 1|-0  | +1 010 11-+ 0++|0||0 11  ++  -0+|--- 1+|
-  1-10 |+- 1+ 10+110+1| +| 1   +1100|  -|1-0+1 1-01 00+ 01  1 +0 0++|-
-   -| 1 0 + 011- --++- + +|000 1+0 1-- ||-1|10 +0 |||- + 111 1++   10
-00  1 1  01-|010| 11000 0000++0|000+ 0111|0|  000+ |1-++1|- - 1- 01- +
-0 |001+0-+-01-|0 +0 1  +- -  0||- 001++0  0 1+0+|111   +-  011| 1  -10
-
-- > SYSTEM SCAN RESULTS
-
-[2025-08-22 08:55:29] [>] CYBERDECK :: SCAN ENGINE v0.7 <]>
-Initializing kernel modules....[ERR]
-Loading system drivers.........[OK]
-Checking hardware integrity....[OK]
-Validating memory banks........[OK]
-Testing network interfaces.....[OK]
-Mounting file systems..........[OK]
-Starting background services...[OK]
-
-- > SCAN COMPLETE [SYSTEM] - all systems nominally
-- > Last updated: 2025-08-22 08:55:29 | Style: matrix | Scan: system
-REAL-TIME STATUS
-
-╔══════════════════════════════════════╗
-║        CYBERDECK STATUS BOARD        ║
-╠══════════════════════════════════════╣
-║ NEURAL LINK  : STABLE                ║
-║ ENCRYPTION   : QUANTUM               ║
-║ THREAT LEVEL : MEDIUM                ║
-╠══════════════════════════════════════╣
-║ UPTIME: 08:55:29        UTC: 22/08   ║
-║ QUOTE: "Follow the white rabbit  "   ║
-╚══════════════════════════════════════╝
-
-```
 <div align="center">
   <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=7" alt="Glitch Divider"/>
 </div>
 
 ```diff
-<div align="center">
-<img src="https://img.shields.io/badge/Status-Morning_Hack-brightgreen?style=for-the-badge&logo=hackaday" alt="Status"/>
-<img src="https://img.shields.io/badge/Commits-480-blue?style=for-the-badge&logo=git" alt="Commits"/>
-<img src="https://img.shields.io/badge/Last_Update-08:55:29-purple?style=for-the-badge&logo=clockify" alt="Last Update"/>
-</div>
+- > Executando system_check.sh...
 
+[2025-08-22 10:08:37] [INFO] - Inicializando diagnóstico do Cyberdeck v1.3...
+[2025-08-22 10:08:37] [OK]   - Conexão Neural.........: ESTÁVEL
+[2025-08-22 10:08:37] [OK]   - Módulos de Criptografia: ATIVOS [QUÂNTICA]
+[2025-08-22 10:08:37] [WARN] - Nível de Ameaça........: MODERADO
+[2025-08-22 10:08:37] [INFO] - Todos os sistemas operacionais. Verificação concluída.
+
+# "A mente é como um paraquedas. Só funciona se estiver aberta."
 
