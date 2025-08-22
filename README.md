@@ -61,7 +61,7 @@ HEX	PROJECT / DESCRIÇÃO	STACK
 0x00	[IA] Exportador VSCode → Obsidian (auto-comment)	Python + AI
 ```
 <div align="right">
-  dump all files ❯
+  <a href="https://github.com/VertigoFromOuterSpace?tab=repositories"> dump all files ❯ </a>
 </div>
 <br>
 
