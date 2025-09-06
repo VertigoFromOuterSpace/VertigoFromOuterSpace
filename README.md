@@ -56,6 +56,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 </tr>
 </table>
 
+
 ---
 ### `> tail -f /var/log/activity.log`
 
