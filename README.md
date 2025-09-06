@@ -31,18 +31,6 @@ echo  ╚═══════════════════════�
 
 ---
 
-### `> cat /var/log/system_stats.log`
-
-<div align="center">
-
-| Plataforma       | Status                                                                                                                              |
-|------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| **Hack The Box** | <img src="https://www.hackthebox.eu/badge/image/USER_ID" alt="HTB Badge"/>                                                            |
-| **TryHackMe** | ![TryHackMe rank](https://tryhackme-badges.herokuapp.com/get/rank/USERNAME?theme=dark&lines=true)                                      |
-| **Hugging Face** | [![Models](https://img.shields.io/badge/🤗-Hugging%20Face-ff0000?style=for-the-badge&color=0d1117)](https://huggingface.co/USERNAME) |
-
-</div>
-
 ### `> ls -l /bin/skills`
 
 `C̴̀̈́Y̴B̵̃̍E̶̚R̷S̷̆̚E̷C̵͝UR̵̊I̶TY`
@@ -59,3 +47,4 @@ echo  ╚═══════════════════════�
 <p align="center">
   `// session terminated //`
 </p>
+
