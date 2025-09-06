@@ -43,9 +43,9 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 <td valign="top" width="50%">
 
 ### `> cat /etc/links`
-- **[LinkedIn]** (https://www.linkedin.com/in/henriquelcarvalhosec)
-- **[Hack The Box]** (https://app.hackthebox.com/profile/SEU_ID)
-- **[TryHackMe]** (https://tryhackme.com/p/SEU_USERNAME)
+- **[LinkedIn](https://www.linkedin.com/in/henriquelcarvalhosec)**
+- **[Hack The Box](https://app.hackthebox.com/profile/SEU_ID)**
+- **[TryHackMe](https://tryhackme.com/p/SEU_USERNAME)**
 
 ### `> ls -l /home/projects`
 - **[DSDamageReduction]** - Calculadora de dano para DS3.
@@ -64,6 +64,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 <p align="center">
   //-- E N D _ O F _ T R A N S M I S S I O N --//
 </p>
+
 
 
 
