@@ -26,4 +26,9 @@ echo  ╚═══════════════════════�
 <img src="https://img.shields.io/badge/Pentesting-ff0000?style=for-the-badge&color=0d1117"/>
 </p>
 
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=DC143C&center=true&vCenter=true&width=435&lines=ROOT@VERTIGO:~$;+Accessing+Mainframe...;Pentesting+Web+Applications;Red+Teaming+Simulation;Malware+Analysis;[+]_SYSTEM_COMPROMISED" />
+</a>
+</p>
 
