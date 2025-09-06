@@ -37,7 +37,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 ### `> ls -l /dev/skills`
 - **Segurança Ofensiva:** Pentesting (Web/Redes), Análise de Malware, Engenharia Social.
 - **Inteligência Artificial:** Fine-tuning de LLMs, Detecção de Anomalias, AI Safety.
-- **Core Stack:** `Python` `C++` `JavaScript` `Assembly (x86)`
+- **Core Stack:** `Python` `Web` `SQL` `AI injection`
 
 </td>
 <td valign="top" width="50%">
@@ -64,5 +64,6 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 <p align="center">
   //-- E N D _ O F _ T R A N S M I S S I O N --//
 </p>
+
 
 
