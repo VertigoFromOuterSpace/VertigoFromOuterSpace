@@ -57,13 +57,11 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 </table>
 
 ---
+---
+### `> tail -f /var/log/activity.log`
 
 <p align="center">
-  <img src="URL_DA_SUA_IMAGEM_DE_CONTRIBUIÇÕES_ISOMÉTRICAS" alt="Contribution Graph"/>
-</p>
-
-<p align="center">
-  //-- E N D _ O F _ T R A N S M I S S I O N --//
+  //-- E N D _ O F _ T R A N S M I S S I O N --//
 </p>
 
 
