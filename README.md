@@ -18,13 +18,6 @@ echo  ╚═══════════════════════�
   <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/animated_header.svg?v=2" alt="Animated Header"/>
 </div>
 
-<p align="center">
-  //-- VERTIGO_OS :: KERNEL v3.1 --//
-</p>
-<p align="center">
-  <code>[system_log]: last commit pushed to [DarkSoulsBuddy] @ 2025-09-06_19:28:15_-0300</code>
-</p>
-
 ---
 
 <table>
@@ -64,6 +57,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 <p align="center">
   //-- E N D _ O F _ T R A N S M I S S I O N --//
 </p>
+
 
 
 
