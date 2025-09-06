@@ -18,7 +18,7 @@ echo  ╚═══════════════════════�
   <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/animated_header.svg?v=2" alt="Animated Header"/>
 </div>
 
----
+<hr style="border-top: 2px solid #DC143C; border-bottom: none;">
 
 <table>
 <tr>
@@ -55,7 +55,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 </tr>
 </table>
 
----
+<hr style="border-top: 2px solid #DC143C; border-bottom: none;">
 ### `> tail -f /var/log/activity.log`
 
 <!-- ACTIVITY_LOG:START -->- 2025-09-06 23:18: VertigoFromOuterSpace pushed VertigoFromOuterSpace<br>- 2025-09-06 23:17: VertigoFromOuterSpace pushed VertigoFromOuterSpace<br>- 2025-09-06 23:16: VertigoFromOuterSpace pushed VertigoFromOuterSpace<br>- 2025-09-06 23:15: VertigoFromOuterSpace pushed VertigoFromOuterSpace<br>- 2025-09-06 23:13: VertigoFromOuterSpace pushed VertigoFromOuterSpace<br><!-- ACTIVITY_LOG:END -->
@@ -63,6 +63,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 <p align="center">
   //-- E N D _ O F _ T R A N S M I S S I O N --//
 </p>
+
 
 
 
