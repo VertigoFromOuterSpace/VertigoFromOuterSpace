@@ -18,15 +18,12 @@ echo  ╚═══════════════════════�
   <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/animated_header.svg?v=2" alt="Animated Header"/>
 </div>
 
-<table align="center">
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VertigoFromOuterSpace&layout=compact&theme=vision-friendly-dark" alt="VertigoFromOuterSpace's Top Languages"/>
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=VertigoFromOuterSpace&show_icons=true&theme=vision-friendly-dark" alt="VertigoFromOuterSpace's GitHub Stats"/>
-    </td>
-  </tr>
-</table>
+[ Known Exploits ]
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-ff0000?style=for-the-badge&logo=python&logoColor=white&color=0d1117"/>
+<img src="https://img.shields.io/badge/Web_Security-ff0000?style=for-the-badge&color=0d1117"/>
+<img src="https://img.shields.io/badge/Pentesting-ff0000?style=for-the-badge&color=0d1117"/>
+</p>
 
 
