@@ -18,33 +18,41 @@ echo  ╚═══════════════════════�
   <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/animated_header.svg?v=2" alt="Animated Header"/>
 </div>
 
-<div align="center">
-  <pre>
-    [ARTE ASCII AQUI]
-  </pre>
-  <p><sub>AI render [2025-09-06] - Model: VertigoDiffusion v2.1</sub></p>
-</div>
-
-<div align="left">
-  <img src="URL_DO_SEU_TERMINAL_CUSTOMIZADO.svg" />
-</div>
-
----
-
-### `> ls -l /bin/skills`
-
-`C̴̀̈́Y̴B̵̃̍E̶̚R̷S̷̆̚E̷C̵͝UR̵̊I̶TY`
--   **Análise de Malware:** `Ghidra`, `x64dbg`, `Process Hacker`
--   **Pentesting Web:** `Burp Suite`, `OWASP ZAP`, `SQLMap`
--   **Red Teaming:** `Cobalt Strike (Covenant)`, `Metasploit`
-
-`A̴I̷ ̸&̶ ̸M̴L`
--   **Frameworks:** `PyTorch`, `TensorFlow`
--   **Técnicas:** `LLM Fine-Tuning`, `Generative Adversarial Networks (GANs)`
--   **Conceito:** `AI Safety & Ethics (Jailbreaking Prompts)`
-
----
 <p align="center">
-  `// session terminated //`
+  //-- VERTIGO_OS :: KERNEL v3.1 --//
+</p>
+<p align="center">
+  <code>[system_log]: last commit pushed to [DarkSoulsBuddy] @ 2025-09-06_19:28:15_-0300</code>
 </p>
 
+---
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+### `> whoami`
+
+Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa de malware e exploração de vulnerabilidades em modelos de linguagem (LLMs). Atualmente desenvolvendo ferramentas de automação para análise de ameaças.
+
+### `> ls -l /dev/skills`
+- **Segurança Ofensiva:** Pentesting (Web/Redes), Análise de Malware, Engenharia Social.
+- **Inteligência Artificial:** Fine-tuning de LLMs, Detecção de Anomalias, AI Safety.
+- **Core Stack:** `Python` `C++` `JavaScript` `Assembly (x86)`
+
+</td>
+<td valign="top" width="40%">
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="URL_DA_SUA_IMAGEM_DE_CONTRIBUIÇÕES_ISOMÉTRICAS" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  //-- E N D _ O F _ T R A N S M I S S I O N --//
+</p>
