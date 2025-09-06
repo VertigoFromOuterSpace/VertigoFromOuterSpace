@@ -47,7 +47,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 
 <p align="right">
   <a href="https://github.com/VertigoFromOuterSpace?tab=repositories">
-    <img src="https://img.shields.io/badge/alguns%20outros%20%3E-0D1117?style=flat&logoColor=white&color=0D1117&labelColor=0D1117&textColor=3393f2" alt="Ver outros repositórios"/>
+    <img src="https://img.shields.io/badge/alguns%20outros%20%3E-0D1117?style=flat&logoColor=white&color=0D1117&labelColor=0D1117&textColor=red" alt="Ver outros repositórios"/>
   </a>
 </p>
 
@@ -63,6 +63,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 <p align="center">
   //-- E N D _ O F _ T R A N S M I S S I O N --//
 </p>
+
 
 
 
