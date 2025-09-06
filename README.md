@@ -29,10 +29,9 @@ echo  ╚═══════════════════════�
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="50%">
 
 ### `> whoami`
-
 Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa de malware e exploração de vulnerabilidades em modelos de linguagem (LLMs). Atualmente desenvolvendo ferramentas de automação para análise de ameaças.
 
 ### `> ls -l /dev/skills`
@@ -41,7 +40,17 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 - **Core Stack:** `Python` `C++` `JavaScript` `Assembly (x86)`
 
 </td>
-<td valign="top" width="40%">
+<td valign="top" width="50%">
+
+### `> cat /etc/links`
+- **[LinkedIn]** (https://www.linkedin.com/in/SEU_LINKEDIN)
+- **[Hack The Box]** (https://app.hackthebox.com/profile/SEU_ID)
+- **[TryHackMe]** (https://tryhackme.com/p/SEU_USERNAME)
+
+### `> ls -l /home/projects`
+- **[DSDamageReduction]** - Calculadora de dano para DS3.
+- **[DarkSoulsBuddy]** - Assistente de build para a série Souls.
+- **[IOC]** - Ferramenta web para análise de IOCs.
 
 </td>
 </tr>
@@ -56,3 +65,4 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 <p align="center">
   //-- E N D _ O F _ T R A N S M I S S I O N --//
 </p>
+
