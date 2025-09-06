@@ -28,8 +28,8 @@ echo  ╚═══════════════════════�
 Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa de malware e exploração de vulnerabilidades em modelos de linguagem (LLMs). Atualmente desenvolvendo ferramentas de automação para análise de ameaças.
 
 ### `> ls -l /dev/skills`
-- **Segurança Ofensiva:** Pentesting (Web/Redes), Análise de Malware, Engenharia Social.
-- **Inteligência Artificial:** Fine-tuning de LLMs, Detecção de Anomalias, AI Safety.
+- **Segurança Ofensiva:** pentesting (Web/Redes), análise de malware, engenharia social.
+- **Inteligência Artificial:** injeção ,fine-tuning de LLMs, detecção de anomalias, AI Safety.
 - **Core Stack:** `Python` `Web` `SQL` `AI injection`
 
 </td>
@@ -42,7 +42,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 
 ### `> ls -l /home/projects`
 - **[DSDamageReduction]** - Calculadora de dano para DS3.
-- **[DarkSoulsBuddy]** - Assistente fofo no canto da tela.
+- **[DarkSoulsBuddy]** - Assistente fofo no canto da tela customizável.
 - **[IOC]** - Ferramenta web para análise de IOCs.
 
 </td>
@@ -57,6 +57,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 <p align="center">
   //-- E N D _ O F _ T R A N S M I S S I O N --//
 </p>
+
 
 
 
