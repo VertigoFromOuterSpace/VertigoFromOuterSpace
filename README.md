@@ -59,9 +59,11 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 ---
 ### `> tail -f /var/log/activity.log`
 
-**DEBUG: Testando a presença dos marcadores. Se você vê esta mensagem, o README foi salvo corretamente.**
+<!-- ACTIVITY_LOG:START -->
+<!-- ACTIVITY_LOG:END -->
 
 <p align="center">
   //-- E N D _ O F _ T R A N S M I S S I O N --//
 </p>
+
 
