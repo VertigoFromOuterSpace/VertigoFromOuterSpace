@@ -32,3 +32,5 @@ echo  ╚═══════════════════════�
 </a>
 </p>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=VertigoFromOuterSpace&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9" />
+
