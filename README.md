@@ -33,6 +33,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 - **Inteligência Artificial:** injeção ,fine-tuning de LLMs, detecção de anomalias, AI Safety.
 - **Core Stack:** `Python` `Web` `SQL` `AI injection`
 
+### `> catimg ~/.user/avatar.png`
 <img src="https://github.com/user-attachments/assets/5efa0d25-7f79-4aba-a942-c74c9dcaa917" />
 
 </td>
@@ -43,17 +44,15 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 - **[H̵a̵c̴k̸ ̷T̷h̷e̵ ̷B̶o̶x̵](https://app.hackthebox.com/profile/2590147)**
 - **[T̶r̴y̶H̴a̸c̷k̷M̷e̸](https://tryhackme.com/p/justhenriquecarv)**
 
+### `> tail -f /var/log/activity.log`
+<div align="center">
+<!-- ACTIVITY_LOG:START -->- 2025-09-16 01:49: VertigoFromOuterSpace starred osintbrazuca/osint-brazuca<br>- 2025-09-08 17:57: VertigoFromOuterSpace starred VertigoFromOuterSpace/DarkSoulsBuddy<br>- 2025-09-08 14:10: VertigoFromOuterSpace pushed PainelDeSobrevivenciaCybersecurity<br>- 2025-09-08 14:01: VertigoFromOuterSpace pushed PainelDeSobrevivenciaCybersecurity<br>- 2025-09-08 13:42: VertigoFromOuterSpace pushed PainelDeSobrevivenciaCybersecurity<br><!-- ACTIVITY_LOG:END -->
+</div>
+
 ### `> ls -l /home/projects`
 - **[DSDamageReduction]** - Calculadora de dano para DS3.
 - **[DarkSoulsBuddy]** - Assistente fofo no canto da tela customizável.
 - **[IOC]** - Ferramenta web para análise de IOCs.
-
-### `> ls /usr/local/toolbox`
-
-> Burp Suite    | Ghidra       | Wireshark <br>
-> Docker        | Kubernetes   | Terraform <br>
-> PyTorch       | TensorFlow   | Scikit-learn <br>
-> Metasploit    | Nmap         | Git <br>
 
 ...e outros processos rodando em background.
 
@@ -76,6 +75,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 <p align="center">
   //-- E N D _ O F _ T R A N S M I S S I O N --//
 </p>
+
 
 
 
