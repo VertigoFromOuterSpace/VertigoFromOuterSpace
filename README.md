@@ -48,7 +48,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 - **[DarkSoulsBuddy]** - Assistente fofo no canto da tela customizável.
 - **[IOC]** - Ferramenta web para análise de IOCs.
 
-### > ls /usr/local/toolbox
+### `> ls /usr/local/toolbox`
 
 - Burp Suite    - Ghidra       - Wireshark
 - Docker        - Kubernetes   - Terraform
@@ -76,6 +76,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 <p align="center">
   //-- E N D _ O F _ T R A N S M I S S I O N --//
 </p>
+
 
 
 
