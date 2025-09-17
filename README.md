@@ -20,7 +20,6 @@ echo  ╚═══════════════════════�
 
 <div style="height: 2px; background-color: #DC143C; margin: 15px 0;"></div>
 -->
-<img width="580" height="324" alt="image" align="center" src="https://github.com/user-attachments/assets/5efa0d25-7f79-4aba-a942-c74c9dcaa917" />
 
 <table>
 <tr>
@@ -33,6 +32,8 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 - **Segurança Ofensiva:** pentesting (Web/Redes), análise de malware, engenharia social.
 - **Inteligência Artificial:** injeção ,fine-tuning de LLMs, detecção de anomalias, AI Safety.
 - **Core Stack:** `Python` `Web` `SQL` `AI injection`
+
+<img src="https://github.com/user-attachments/assets/5efa0d25-7f79-4aba-a942-c74c9dcaa917" />
 
 </td>
 <td valign="top" width="50%">
@@ -66,6 +67,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 <p align="center">
   //-- E N D _ O F _ T R A N S M I S S I O N --//
 </p>
+
 
 
 
