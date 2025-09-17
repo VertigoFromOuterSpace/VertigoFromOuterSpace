@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/VertigoFromOuterSpace/VertigoFromOuterSpace/main/.assets/glitch_divider.svg?v=7" alt="Glitch Divider"/>
 </div>
 
@@ -23,7 +23,7 @@ echo  ╚═══════════════════════�
 <table>
 <tr>
 <td valign="top" width="50%">
-
+-->
 ### `> whoami`
 Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa de malware e exploração de vulnerabilidades em modelos de linguagem (LLMs). Atualmente desenvolvendo ferramentas de automação para análise de ameaças.
 
@@ -64,6 +64,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 <p align="center">
   //-- E N D _ O F _ T R A N S M I S S I O N --//
 </p>
+
 
 
 
