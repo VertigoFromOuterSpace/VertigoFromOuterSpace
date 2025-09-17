@@ -19,11 +19,11 @@ echo  ╚═══════════════════════�
 </div>
 
 <div style="height: 2px; background-color: #DC143C; margin: 15px 0;"></div>
-
+-->
 <table>
 <tr>
 <td valign="top" width="50%">
--->
+
 ### `> whoami`
 Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa de malware e exploração de vulnerabilidades em modelos de linguagem (LLMs). Atualmente desenvolvendo ferramentas de automação para análise de ameaças.
 
@@ -64,6 +64,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 <p align="center">
   //-- E N D _ O F _ T R A N S M I S S I O N --//
 </p>
+
 
 
 
