@@ -45,7 +45,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 - **[T̶r̴y̶H̴a̸c̷k̷M̷e̸](https://tryhackme.com/p/justhenriquecarv)**
 
 ### `> tail -f /var/log/activity.log`
-<div align="center">
+<div>
 <!-- ACTIVITY_LOG:START -->- 2025-09-16 01:49: VertigoFromOuterSpace starred osintbrazuca/osint-brazuca<br>- 2025-09-08 17:57: VertigoFromOuterSpace starred VertigoFromOuterSpace/DarkSoulsBuddy<br>- 2025-09-08 14:10: VertigoFromOuterSpace pushed PainelDeSobrevivenciaCybersecurity<br>- 2025-09-08 14:01: VertigoFromOuterSpace pushed PainelDeSobrevivenciaCybersecurity<br>- 2025-09-08 13:42: VertigoFromOuterSpace pushed PainelDeSobrevivenciaCybersecurity<br><!-- ACTIVITY_LOG:END -->
 </div>
 
@@ -75,6 +75,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 <p align="center">
   //-- E N D _ O F _ T R A N S M I S S I O N --//
 </p>
+
 
 
 
