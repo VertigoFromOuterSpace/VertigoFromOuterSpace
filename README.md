@@ -33,7 +33,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 - **Inteligência Artificial:** injeção ,fine-tuning de LLMs, detecção de anomalias, AI Safety.
 - **Core Stack:** `Python` `Web` `SQL` `AI injection`
 
-### `> catimg ~/.user/avatar.png`
+### `> catimg ~/Pictures/Fosint.png`
 <img src="https://github.com/user-attachments/assets/5efa0d25-7f79-4aba-a942-c74c9dcaa917" />
 
 </td>
@@ -70,6 +70,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 <p align="center">
   //-- E N D _ O F _ T R A N S M I S S I O N --//
 </p>
+
 
 
 
