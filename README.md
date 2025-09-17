@@ -50,10 +50,10 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 
 ### `> ls /usr/local/toolbox`
 
-| Burp Suite    | Ghidra       | Wireshark
-| Docker        | Kubernetes   | Terraform
-| PyTorch       | TensorFlow   | Scikit-learn
-| Metasploit    | Nmap         | Git
+> Burp Suite    | Ghidra       | Wireshark <br>
+> Docker        | Kubernetes   | Terraform <br>
+> PyTorch       | TensorFlow   | Scikit-learn <br>
+> Metasploit    | Nmap         | Git <br>
 
 ...e outros processos rodando em background.
 
@@ -76,6 +76,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 <p align="center">
   //-- E N D _ O F _ T R A N S M I S S I O N --//
 </p>
+
 
 
 
