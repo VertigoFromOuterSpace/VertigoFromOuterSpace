@@ -54,7 +54,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 - **[DarkSoulsBuddy]** - Assistente fofo no canto da tela customizável.
 - **[IOC]** - Ferramenta web para análise de IOCs.
 
-<br><br>
+<br>
 
 <p align="right">
   <a href="https://github.com/VertigoFromOuterSpace?tab=repositories">
@@ -70,6 +70,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 <p align="center">
   //-- E N D _ O F _ T R A N S M I S S I O N --//
 </p>
+
 
 
 
