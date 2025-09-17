@@ -59,7 +59,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 
 <div style="height: 2px; background-color: #DC143C; margin: 15px 0;"></div>
 
-<img width="580" height="324" alt="image" src="https://github.com/user-attachments/assets/5efa0d25-7f79-4aba-a942-c74c9dcaa917" />
+<img width="580" height="324" alt="image" align="center" src="https://github.com/user-attachments/assets/5efa0d25-7f79-4aba-a942-c74c9dcaa917" />
 
 ### `> tail -f /var/log/activity.log`
 <div align="center">
@@ -68,6 +68,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 <p align="center">
   //-- E N D _ O F _ T R A N S M I S S I O N --//
 </p>
+
 
 
 
