@@ -53,7 +53,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 - **[DSDamageReduction]** - Calculadora de dano para DS3.
 - **[DarkSoulsBuddy]** - Assistente fofo no canto da tela customizável.
 - **[IOC]** - Ferramenta web para análise de IOCs.
-- 
+
 <br>
 
 <p align="right">
@@ -70,6 +70,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 <p align="center">
   //-- E N D _ O F _ T R A N S M I S S I O N --//
 </p>
+
 
 
 
