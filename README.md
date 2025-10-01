@@ -41,7 +41,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 
 ### `> cat /etc/links`
 - **[L̴i̸n̷k̴e̶d̵i̴n̵](https://www.linkedin.com/in/henriquelcarvalhosec)**
-- **[H̵a̵c̴k̸ ̷T̷h̷e̵ ̷B̶o̶x̵](https://app.hackthebox.com/profile/2590147)**
+- **[s̶o̸b̵r̶e̶ ̸m̷i̵m̵](https://VertigoFromOuterSpace.github.io/vertigo.github.io)**
 - **[T̶r̴y̶H̴a̸c̷k̷M̷e̸](https://tryhackme.com/p/justhenriquecarv)**
 
 ### `> tail -f /var/log/activity.log`
@@ -70,6 +70,7 @@ Analista de Cibersegurança e pesquisador de IA com foco em engenharia reversa d
 <p align="center">
   //-- E N D _ O F _ T R A N S M I S S I O N --//
 </p>
+
 
 
 
